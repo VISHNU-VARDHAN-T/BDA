@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"ebb95368-e936-4f3e-8a3a-ee8fa4834079","D02","POSE","POSE.AOS.S2","2014-12-08T14:24Z","2014-12-08T19:18Z","POSE.SS.20141208","POSE.SS.20141208.ALK",,"support facility","ALK",7.58,19.0,"0.16",50.0,"IPT",,"mrockey@neoninc.org",0.780,39.100,,,
+"7a80d8fc-9781-4f05-867a-185f6d5f8d62","D02","POSE","POSE.AOS.S2","2014-12-08T14:24Z","2014-12-08T20:08Z","POSE.SS.20141208","POSE.SS.20141208.ANC",,"support facility","ANC",7.60,20.1,"0.16",50.0,"IPT",,"mrockey@neoninc.org",,,0.790,39.700,

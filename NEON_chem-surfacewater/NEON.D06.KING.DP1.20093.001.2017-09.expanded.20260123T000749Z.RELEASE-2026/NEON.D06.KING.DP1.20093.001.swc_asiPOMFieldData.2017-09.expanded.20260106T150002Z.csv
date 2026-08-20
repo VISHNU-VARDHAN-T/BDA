@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"e572ff78-e969-47e9-b8d3-41cf5090fc28","D06","KING","KING.AOS.S2","2017-09-05T14:45Z","KING.SS.20170905",,"Sample condition ok","KING.SS.20170905.POM.2",,"Sample condition ok","KING.SS.20170905.POM.1",,"2017-09-05T16:10Z",110,117,

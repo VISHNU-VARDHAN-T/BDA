@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"de23d82c-3e58-45ea-98fb-35a3b07eecfa","D01","HOPB","HOPB.AOS.S2","2017-06-20T12:56Z","HOPB.SS.20170620",,"Sample condition ok",,,"Sample condition ok","HOPB.SS.20170620.POM.1",,"2017-06-20T14:06Z",250,,"legacyData"

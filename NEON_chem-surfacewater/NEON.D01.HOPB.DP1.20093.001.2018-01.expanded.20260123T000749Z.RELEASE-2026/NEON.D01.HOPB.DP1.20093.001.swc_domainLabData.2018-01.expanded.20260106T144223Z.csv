@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"259eac20-04a2-44c9-89ac-b23fa048e720","D01","HOPB","HOPB.AOS.S2","2018-01-25T14:42Z","2018-01-26T14:04Z","HOPB.SS.20180125","HOPB.SS.20180125.ANC",,"support facility","ANC",6.36,21.9,"0.16",100.0,"Gran",,"mbara@battelleecology.org",,,0.070,3.650,
+"97943f28-17f8-4720-a9de-5777fd0556c8","D01","HOPB","HOPB.AOS.S2","2018-01-25T14:42Z","2018-01-26T13:18Z","HOPB.SS.20180125","HOPB.SS.20180125.ALK",,"support facility","ALK",6.81,21.9,"0.16",100.0,"Gran",,"mbara@battelleecology.org",0.060,2.930,,,

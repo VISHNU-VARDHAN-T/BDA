@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,sampleID,sampleCode,startDate,collectDate,laboratoryName,analyte,analyteConcentration,analyteUnits,analysisDate,belowDetectionQF,coolerTemp,remarks,shipmentWarmQF,externalLabDataQF,sampleCondition
+"37d133bb-e2ba-4663-931e-c9f8357fa43c","D11","PRIN","PRIN.AOS.S2","PRIN.SS.20171205.POM.1",,"2017-12-05T17:10Z","2017-12-05T17:10Z","SIRFER Lab at University of Utah","TPN",116.9931,"microgramsPerLiter",,,,,-1,,"OK"
+"8689578e-fc7c-46f2-9eb5-30b0972c5aa7","D11","PRIN","PRIN.AOS.S2","PRIN.SS.20171205.POM.1",,"2017-12-05T17:10Z","2017-12-05T17:10Z","SIRFER Lab at University of Utah","TPC",765.4001,"microgramsPerLiter",,,,,-1,,"OK"

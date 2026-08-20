@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"9b5fc7d5-4155-4dc0-a271-09ca0b0be524","D11","PRIN","PRIN.AOS.S2","2019-02-05T18:16Z","PRIN.SS.20190205",,"Sample condition ok","PRIN.SS.20190205.POM.2","A00000052886","Sample condition ok","PRIN.SS.20190205.POM.1","A00000052879","2019-02-05T22:00Z",400,400,

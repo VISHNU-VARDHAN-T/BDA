@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"748e4074-e6ec-4780-9146-1df17d1fbfe8","D06","KING","KING.AOS.S2","2016-03-01T15:23Z","KING.SS.20160301",,,"KING.SS.20160301.POM.2",,,"KING.SS.20160301.POM.1",,"2016-03-01T18:35Z",900,900,"legacyData"
+"9937f3c4-5b15-45b2-ba01-e1ef30ce2cae","D06","KING","KING.AOS.S2","2016-03-08T14:17Z","KING.SS.20160308",,"Sample condition ok","KING.SS.20160308.POM.2",,"Sample condition ok","KING.SS.20160308.POM.1",,"2017-09-01T16:00Z",1199,1000,"legacyData"
+"57d57d7d-698b-4ded-8fe3-04882524974f","D06","KING","KING.AOS.S2","2016-03-29T13:40Z","KING.SS.20160329",,,"KING.SS.20160329.POM.2",,,"KING.SS.20160329.POM.1",,,750,750,"legacyData"

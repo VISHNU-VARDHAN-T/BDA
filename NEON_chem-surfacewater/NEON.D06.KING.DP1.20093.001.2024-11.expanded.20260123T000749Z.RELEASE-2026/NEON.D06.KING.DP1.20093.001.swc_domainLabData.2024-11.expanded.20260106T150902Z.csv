@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"705b3734-2478-40c1-95f4-5a20627e51d9","D06","KING","KING.AOS.reach","2024-11-05T14:19Z","2024-11-05T17:01Z","KING.RE.20241105","KING.RE.20241105.ALK",,"support facility","ALK",7.38,20.9,"1.6",100.0,"IPT",,"winter@battellecology.org",6.920,346.000,,,

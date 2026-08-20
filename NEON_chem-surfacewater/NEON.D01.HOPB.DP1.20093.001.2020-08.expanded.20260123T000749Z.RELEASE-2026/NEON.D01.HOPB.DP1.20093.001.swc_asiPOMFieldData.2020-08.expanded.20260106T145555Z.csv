@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"7f46ff33-6028-41bc-9354-0bdfff4c7438","D01","HOPB","HOPB.AOS.S2","2020-08-18T15:27Z","HOPB.SS.20200818",,"Sample condition ok","HOPB.SS.20200818.POM.2","A00000126554","Sample condition ok","HOPB.SS.20200818.POM.1","A00000126555","2020-08-18T18:16Z",600,600,
+"2e842d0d-46cf-4606-b289-c634911e4280","D01","HOPB","HOPB.AOS.S2","2020-08-18T15:27Z","HOPB.SS.20200818",,,,,,,,,,,
+"b5400065-743b-4d80-ba1f-1ae5816b17e8","D01","HOPB","HOPB.AOS.S2","2020-08-18T15:27Z","HOPB.SS.20200818",,,,,,,,,,,
+"2ca2a195-839d-45d1-a5b4-1f25d140818b","D01","HOPB","HOPB.AOS.S2","2020-08-24T15:51Z","HOPB.SS.20200824",,"Sample condition ok","HOPB.SS.20200824.POM.2","A00000126633","Sample condition ok","HOPB.SS.20200824.POM.1","A00000126637","2020-08-24T18:24Z",750,750,

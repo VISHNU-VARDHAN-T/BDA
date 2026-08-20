@@ -1,0 +1,6 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"d70c13b8-f99b-41e2-9c34-95fe0fa61178","D06","KING","KING.AOS.S2","2024-07-01T15:20Z","KING.SS.20240701",,,,,,,,,,,
+"da24fc1d-788b-4667-96df-18ef24008015","D06","KING","KING.AOS.S2","2024-07-01T15:20Z","KING.SS.20240701",,,,,,,,,,,
+"69cb388b-86f7-47c4-a7a8-48d38a6be1c0","D06","KING","KING.AOS.S2","2024-07-01T15:20Z","KING.SS.20240701",,"Sample condition ok","KING.SS.20240701.POM.2","A00000439259","Sample condition ok","KING.SS.20240701.POM.1","A00000439258","2024-07-01T18:45Z",25,25,
+"cdebde7e-e662-4445-8807-1f71fa5f825e","D06","KING","KING.AOS.S2","2024-07-11T15:23Z","KING.SS.20240711",,"Sample condition ok","KING.SS.20240711.POM.2","A00000439664","Sample condition ok","KING.SS.20240711.POM.1","A00000439663","2024-07-11T17:21Z",2600,2600,
+"93a08a6e-91be-4fe8-95cb-2acb784bfdde","D06","KING","KING.AOS.S2","2024-07-15T15:21Z","KING.SS.20240715",,"Sample condition ok","KING.SS.20240715.POM.2","A00000439681","Sample condition ok","KING.SS.20240715.POM.1","A00000439680","2024-07-15T16:57Z",1700,1700,

@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"9add39a5-479a-4a90-bd66-34a7750c4620","D19","CARI","CARI.AOS.S2","2020-09-15T21:05Z","2020-09-16T00:54Z","CARI.SS.20200915","CARI.SS.20200915.ALK",,"support facility","ALK",7.49,21.7,"0.16",50.0,"Gran",,"T. Gillum",0.600,29.900,,,
+"604fceea-fe76-4b45-b000-a63a798c6d4a","D19","CARI","CARI.AOS.S2","2020-09-22T21:40Z","2020-09-23T00:17Z","CARI.SS.20200922","CARI.SS.20200922.ALK",,"support facility","ALK",7.46,17.8,"0.16",50.0,"Gran",,"T. Gillum",0.660,32.800,,,
+"f498dda3-331d-45b9-bff5-0b0c32a3f8aa","D19","CARI","CARI.AOS.S2","2020-09-28T20:06Z","2020-09-28T22:58Z","CARI.SS.20200928","CARI.SS.20200928.ALK",,"support facility","ALK",7.66,19.0,"0.16",50.0,"Gran",,"SEM",0.680,34.200,,,

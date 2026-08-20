@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"10c3bbf9-9a46-4106-99f4-4e8c350d9c2e","D01","HOPB","HOPB.AOS.S2","2019-10-09T14:29Z","HOPB.SS.20191009",,"Sample condition ok","HOPB.SS.20191009.POM.2","A00000125968","Sample condition ok","HOPB.SS.20191009.POM.1","A00000125969","2019-10-09T16:50Z",500,500,

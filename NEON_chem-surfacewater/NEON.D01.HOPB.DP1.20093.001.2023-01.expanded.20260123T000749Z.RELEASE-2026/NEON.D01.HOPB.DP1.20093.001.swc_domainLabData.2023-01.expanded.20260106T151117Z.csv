@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"654aae52-0f3c-480f-bcc3-b1bc660ad923","D01","HOPB","HOPB.AOS.S2","2023-01-17T15:17Z","2023-01-17T19:30Z","HOPB.SS.20230117","HOPB.SS.20230117.ALK",,"support facility","ALK",6.47,18.0,"0.16",150.0,"IPT",,"Carol Goranson",0.090,4.310,,,

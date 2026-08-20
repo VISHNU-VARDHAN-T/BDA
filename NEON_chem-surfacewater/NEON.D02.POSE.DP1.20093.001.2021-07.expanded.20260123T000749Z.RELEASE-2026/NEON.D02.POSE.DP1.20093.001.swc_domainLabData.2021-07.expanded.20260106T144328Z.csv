@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"9178c756-4cda-43e8-bc94-24207872589e","D02","POSE","POSE.AOS.S2","2021-07-19T11:58Z","2021-07-19T05:21Z","POSE.SS.20210719","POSE.SS.20210719.ALK",,"support facility","ALK",7.90,22.3,"0.16",50.0,"IPT",,"cunninghamja@battelleecology.org",1.330,66.400,,,
+"f37cef33-0c75-4e86-a073-fe0af444b32b","D02","POSE","POSE.AOS.S2","2021-07-19T11:58Z","2021-07-19T05:56Z","POSE.SS.20210719","POSE.SS.20210719.ANC",,"support facility","ANC",7.77,23.3,"0.16",50.0,"IPT",,"cunninghamja@battelleecology.org",,,1.340,67.000,

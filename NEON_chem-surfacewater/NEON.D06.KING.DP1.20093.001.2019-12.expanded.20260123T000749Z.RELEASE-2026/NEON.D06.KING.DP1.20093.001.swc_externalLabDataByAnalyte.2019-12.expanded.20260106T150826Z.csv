@@ -1,0 +1,12 @@
+uid,domainID,siteID,namedLocation,sampleID,sampleCode,startDate,collectDate,laboratoryName,analyte,analyteConcentration,analyteUnits,analysisDate,belowDetectionQF,coolerTemp,remarks,shipmentWarmQF,externalLabDataQF,sampleCondition
+"6281a021-70b1-4e55-804a-70e630c53826","D06","KING","KING.AOS.S2","KING.SS.20191203.PCN","A00000208397","2019-12-03T16:32Z","2019-12-03T16:32Z","EcoCore_CSU","TPC",97.9635,"microgramsPerLiter",,,-0.7,,0,,"OK"
+"2e018708-1c8f-4a96-994b-81af2d1d62e7","D06","KING","KING.AOS.S2","KING.SS.20191203.POM.1",,"2019-12-03T16:32Z","2019-12-03T16:32Z","SIRFER Lab at University of Utah","TPC",48.2122,"microgramsPerLiter",,,,,-1,,"OK"
+"0fd004b6-7ccc-4774-be03-f85ee4c96407","D06","KING","KING.AOS.S2","KING.SS.20191203.RAW","A00000208416","2019-12-03T16:32Z","2019-12-03T16:32Z","EcoCore_CSU","TSS",8.0000,"milligramsPerLiter",,,-0.7,,0,,"OK"
+"96a6bdc4-41cf-4682-8693-f096ed5bca2e","D06","KING","KING.AOS.S2","KING.SS.20191203.POM.1",,"2019-12-03T16:32Z","2019-12-03T16:32Z","SIRFER Lab at University of Utah","TPN",6.1294,"microgramsPerLiter",,,,,-1,,"OK"
+"39996705-641a-46fd-82a4-87a795e4c196","D06","KING","KING.AOS.S2","KING.SS.20191203.RAW","A00000208416","2019-12-03T16:32Z","2019-12-03T16:32Z","EcoCore_CSU","ANC",3.2800,"milliequivalentsPerLiter",,,-0.7,,0,,"OK"
+"ebc4bd1f-8bfe-4c05-a822-1c663a546e57","D06","KING","KING.AOS.S2","KING.SS.20191203.RAW","A00000208416","2019-12-03T16:32Z","2019-12-03T16:32Z","EcoCore_CSU","TP",0.0260,"milligramsPerLiter",,,-0.7,,0,,"OK"
+"c4e06137-875d-4362-b927-568799c8b37f","D06","KING","KING.AOS.S2","KING.SS.20191203.RAW","A00000208416","2019-12-03T16:32Z","2019-12-03T16:32Z","EcoCore_CSU","TN",0.0829,"milligramsPerLiter",,,-0.7,,0,,"OK"
+"d6bd2218-b56a-4a7e-b08c-b8f94a6dc096","D06","KING","KING.AOS.S2","KING.SS.20191203.RAW","A00000208416","2019-12-03T16:32Z","2019-12-03T16:32Z","EcoCore_CSU","TSS - Dry Mass",400.0000,"microgram",,,-0.7,,0,,"OK"
+"17bd68d9-e926-4955-be70-9bda4c1b675c","D06","KING","KING.AOS.S2","KING.SS.20191203.RAW","A00000208416","2019-12-03T16:32Z","2019-12-03T16:32Z","EcoCore_CSU","specificConductance",454.5200,"microsiemensPerCentimeter",,,-0.7,,0,,"OK"
+"43c21110-360f-4b81-906b-62d4fdde2e2c","D06","KING","KING.AOS.S2","KING.SS.20191203.RAW","A00000208416","2019-12-03T16:32Z","2019-12-03T16:32Z","EcoCore_CSU","TOC",1.0320,"milligramsPerLiter",,,-0.7,,0,,"OK"
+"44a49904-b7f8-4282-b76a-243a50edb0a6","D06","KING","KING.AOS.S2","KING.SS.20191203.PCN","A00000208397","2019-12-03T16:32Z","2019-12-03T16:32Z","EcoCore_CSU","TPN",61.7903,"microgramsPerLiter",,,-0.7,,0,,"OK"

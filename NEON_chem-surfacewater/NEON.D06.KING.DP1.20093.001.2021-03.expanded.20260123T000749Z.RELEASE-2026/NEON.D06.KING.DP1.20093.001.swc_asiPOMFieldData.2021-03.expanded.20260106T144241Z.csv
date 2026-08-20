@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"4fbcd9bc-be88-4dab-9893-2c00d6b3c923","D06","KING","KING.AOS.reach","2021-03-02T17:15Z","KING.RE.20210302",,"Sample condition ok","KING.RE.20210302.POM.2","A00000209719","Sample condition ok","KING.RE.20210302.POM.1","A00000209718","2021-03-02T18:17Z",1000,1000,
+"c84bb7dd-dadc-4330-b508-63e9e2ac11ec","D06","KING","KING.AOS.reach","2021-03-09T16:40Z","KING.RE.20210309",,,,,,,,,,,
+"131a728a-376c-4d0a-9e1b-ff6282df8098","D06","KING","KING.AOS.reach","2021-03-09T16:40Z","KING.RE.20210309",,"Sample condition ok","KING.RE.20210309.POM.2","A00000209837","Sample condition ok","KING.RE.20210309.POM.1","A00000209830","2021-03-09T18:34Z",600,600,
+"a7808429-91eb-4f3e-a0d5-1daec7d5a961","D06","KING","KING.AOS.reach","2021-03-09T16:40Z","KING.RE.20210309",,,,,,,,,,,

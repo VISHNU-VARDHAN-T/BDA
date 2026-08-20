@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"b05a794b-23e8-45b8-b85c-7ac556d56f22","D19","CARI","CARI.AOS.S2","2016-07-19T20:23Z","2016-07-20T18:05Z","CARI.SS.20160719","CARI.SS.20160719.ALK",,"support facility","ALK",6.31,20.1,"0.16",50.0,"Gran",,"jcelmer@neoninc.org",0.350,17.500,,,
+"942213bb-6ebf-4cf4-b213-587fdd39882b","D19","CARI","CARI.AOS.S2","2016-07-19T20:23Z","2016-07-20T18:05Z","CARI.SS.20160719","CARI.SS.20160719.ANC",,"support facility","ANC",6.68,19.0,"0.16",50.0,"Gran",,"jcelmer@neoninc.org",,,0.300,15.000,

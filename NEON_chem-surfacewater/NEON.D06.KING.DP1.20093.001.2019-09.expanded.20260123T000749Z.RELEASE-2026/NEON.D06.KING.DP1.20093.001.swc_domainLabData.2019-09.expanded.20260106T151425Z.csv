@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"ef7fa364-2a6a-45ea-87d2-2b9b248a49d3","D06","KING","KING.AOS.S2","2019-09-04T16:35Z","2019-09-04T19:15Z","KING.SS.20190904","KING.SS.20190904.ALK",,"support facility","ALK",8.05,18.5,"1.6",100.0,"IPT",,"jkukulski",6.130,307.000,,,
+"1b2974a9-0846-4395-971c-64637447d68f","D06","KING","KING.AOS.S2","2019-09-04T16:35Z","2019-09-04T19:40Z","KING.SS.20190904","KING.SS.20190904.ANC",,"support facility","ANC",7.95,18.1,"1.6",100.0,"IPT",,"jkukulski",,,6.190,310.000,
+"eb62b59b-fa9d-42b6-a3db-a9fabd8f565c","D06","KING","KING.AOS.S2","2019-09-30T17:31Z","2019-09-30T22:45Z","KING.SS.20190930","KING.SS.20190930.ALK",,"support facility","ALK",7.84,16.7,"1.6",100.0,"IPT",,"egawanda",6.500,326.000,,,

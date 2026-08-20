@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"c8963a86-77a1-4b6a-8e3a-72ba48d4fdc5","D02","POSE","POSE.AOS.S2","2018-07-24T12:55Z","2018-07-24T15:42Z","POSE.SS.20180724","POSE.SS.20180724.ALK",,"support facility","ALK",7.45,20.2,"0.16",50.0,"IPT",,"kgeiger@battelleecology.org",0.880,44.200,,,
+"dde53c7f-20c6-4abc-9418-e8285186fc47","D02","POSE","POSE.AOS.S2","2018-07-24T12:55Z","2018-07-24T15:42Z","POSE.SS.20180724","POSE.SS.20180724.ANC",,"support facility","ANC",8.04,19.6,"0.16",50.0,"IPT",,"kgeiger@battelleecology.otg",,,0.850,42.800,

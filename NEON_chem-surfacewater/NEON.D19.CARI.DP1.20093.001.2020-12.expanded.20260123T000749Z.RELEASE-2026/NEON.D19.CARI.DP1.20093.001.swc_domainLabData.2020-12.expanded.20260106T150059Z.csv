@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"1acdcf4f-f645-40d7-88a4-31d64a8e7164","D19","CARI","CARI.AOS.S2","2020-12-01T20:40Z","2020-12-02T20:30Z","CARI.SS.20201201","CARI.SS.20201201.ALK",,"support facility","ALK",7.02,19.0,"0.16",50.0,"Gran",,"jbuza",0.880,44.300,,,

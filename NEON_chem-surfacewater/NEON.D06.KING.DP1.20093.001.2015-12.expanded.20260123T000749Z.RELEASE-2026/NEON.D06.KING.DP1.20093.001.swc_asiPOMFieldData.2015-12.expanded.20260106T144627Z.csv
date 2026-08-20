@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"21ea30aa-a896-4d4a-876c-3a2772b1c7b1","D06","KING","KING.AOS.S2","2015-12-02T15:24Z","KING.SS.20151202",,,"KING.SS.20151202.POM.2",,,"KING.SS.20151202.POM.1",,"2015-12-02T18:50Z",400,400,"legacyData"

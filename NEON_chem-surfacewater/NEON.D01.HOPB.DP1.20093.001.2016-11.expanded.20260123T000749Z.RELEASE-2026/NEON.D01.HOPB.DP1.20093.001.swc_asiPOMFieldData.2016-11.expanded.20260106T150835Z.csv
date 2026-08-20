@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"a3c0e964-868b-41fc-b2c6-b2be1813683c","D01","HOPB","HOPB.AOS.S2","2016-11-10T14:50Z","HOPB.SS.20161110",,,"HOPB.SS.20161110.POM.2",,,"HOPB.SS.20161110.POM.1",,"2016-11-10T10:30Z",500,500,"legacyData"
+"79896927-8c7b-44c8-afaa-d06188b0df9c","D01","HOPB","HOPB.AOS.S2","2016-11-17T14:40Z","HOPB.SS.20161117",,,"HOPB.SS.20161117.POM.2",,,"HOPB.SS.20161117.POM.1",,"2016-11-17T10:25Z",500,500,"legacyData"

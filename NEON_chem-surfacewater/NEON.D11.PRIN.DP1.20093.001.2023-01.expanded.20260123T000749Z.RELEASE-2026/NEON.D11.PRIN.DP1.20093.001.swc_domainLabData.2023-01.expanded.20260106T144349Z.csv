@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"99c06b96-1140-45fc-97fc-db15b4a7e276","D11","PRIN","PRIN.AOS.S2","2023-01-17T17:02Z","2023-01-17T21:13Z","PRIN.SS.20230117","PRIN.SS.20230117.ANC",,"support facility","ANC",8.01,23.0,"1.6",100.0,"IPT",,"kjones03@battelleecology.org",,,5.340,267.000,
+"7d67d722-fb1b-4562-bc30-7b3cc5f92cb6","D11","PRIN","PRIN.AOS.S2","2023-01-17T17:02Z","2023-01-17T21:31Z","PRIN.SS.20230117","PRIN.SS.20230117.ALK",,"support facility","ALK",8.00,21.3,"1.6",100.0,"IPT",,"kjones03@battelleecology.org",5.540,277.000,,,

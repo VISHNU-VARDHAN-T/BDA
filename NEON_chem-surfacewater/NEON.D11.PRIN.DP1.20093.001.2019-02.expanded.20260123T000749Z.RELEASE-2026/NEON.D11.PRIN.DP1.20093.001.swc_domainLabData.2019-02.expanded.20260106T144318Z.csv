@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"58f1c47c-9131-444d-97a3-66b4383784ac","D11","PRIN","PRIN.AOS.S2","2019-02-05T18:16Z","2019-02-05T22:36Z","PRIN.SS.20190205","PRIN.SS.20190205.ANC",,"support facility","ANC",7.48,17.3,"1.6",100.0,"IPT",,"nfenster@battelleecology.org",,,4.800,240.000,
+"080a82fd-0492-49a9-a63b-f4765d4b85d0","D11","PRIN","PRIN.AOS.S2","2019-02-05T18:16Z","2019-02-05T22:00Z","PRIN.SS.20190205","PRIN.SS.20190205.ALK",,"support facility","ALK",8.15,17.3,"1.6",100.0,"IPT",,"nfenster@battelleecology.org",5.750,288.000,,,

@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"816b5dbb-c336-44c5-a7bf-0b28d5e458d3","D06","KING","KING.AOS.reach","2020-12-01T17:20Z","2020-12-01T20:15Z","KING.RE.20201201","KING.RE.20201201.ANC",,"support facility","ANC",7.79,15.3,"1.6",100.0,"IPT",,"hturner",,,6.130,307.000,

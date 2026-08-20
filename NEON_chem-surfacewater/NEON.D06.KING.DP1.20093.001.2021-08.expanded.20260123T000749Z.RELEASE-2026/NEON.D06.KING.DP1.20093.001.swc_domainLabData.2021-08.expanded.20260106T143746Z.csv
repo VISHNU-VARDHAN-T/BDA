@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"01dfe3e8-1483-47db-9b58-6f45c2118c3b","D06","KING","KING.AOS.S2","2021-08-04T17:38Z","2021-08-04T23:10Z","KING.SS.20210804","KING.SS.20210804.ANC",,"support facility","ANC",7.56,17.0,"1.6",100.0,"IPT",,"jgutierrez",,,6.390,320.000,
+"334bf4a7-7a7c-4c0a-a1e3-cd0b1708e396","D06","KING","KING.AOS.S2","2021-08-04T17:38Z","2021-08-04T10:40Z","KING.SS.20210804","KING.SS.20210804.ALK",,"support facility","ALK",7.79,16.8,"1.6",100.0,"IPT",,"jgutierrez",6.330,317.000,,,
+"9d645f5d-58c7-4f9e-a060-e8c5d32d7b00","D06","KING","KING.AOS.S2","2021-08-10T17:40Z",,"KING.SS.20210810","KING.SS.20210810.ALK",,"support facility","ALK",7.33,18.2,"1.6",100.0,"IPT",,"gutierrezj@battelleecology.org",6.440,322.000,,,

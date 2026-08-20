@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"2e7ee76b-f7b4-4838-9ebb-001eab0df498","D01","HOPB","HOPB.AOS.S2","2019-07-11T12:34Z","2019-07-11T17:34Z","HOPB.SS.20190711","HOPB.SS.20190711.ANC",,"support facility","ANC",6.82,15.7,"0.16",100.0,"Gran",,"Asakaeva",,,0.240,11.900,
+"e7a75ced-800d-4f12-900a-9a15a7d10865","D01","HOPB","HOPB.AOS.S2","2019-07-11T12:34Z","2019-07-11T16:52Z","HOPB.SS.20190711","HOPB.SS.20190711.ALK",,"support facility","ALK",6.94,18.6,"0.16",100.0,"Gran",,"Asakaeva",0.240,12.100,,,
+"8829b910-5794-49fe-8920-6d6e2bceb835","D01","HOPB","HOPB.AOS.S2","2019-07-17T12:35Z","2019-07-17T18:25Z","HOPB.SS.20190717","HOPB.SS.20190717.ALK",,"support facility","ALK",7.05,17.6,"0.16",100.0,"Gran",,"Asakaeva",0.260,13.200,,,

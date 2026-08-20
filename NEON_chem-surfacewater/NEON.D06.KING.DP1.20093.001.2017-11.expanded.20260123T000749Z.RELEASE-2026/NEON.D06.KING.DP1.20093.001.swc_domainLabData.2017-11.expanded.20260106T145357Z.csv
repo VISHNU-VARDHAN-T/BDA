@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"d7aed5d9-3490-4efe-a048-9d7393515b9f","D06","KING","KING.AOS.reach","2017-11-01T16:22Z","2017-11-01T18:40Z","KING.RE.20171101","KING.RE.20171101.ALK",,"support facility","ALK",7.80,17.9,"1.6",100.0,"IPT","rep 1","Jkukuslki",7.140,357.000,,,
+"dacdbde5-97ed-4940-b3bd-05cfcb90f29c","D06","KING","KING.AOS.reach","2017-11-01T16:22Z","2017-11-01T19:00Z","KING.RE.20171101","KING.RE.20171101.ANC",,"support facility","ANC",7.45,19.1,"1.6",100.0,"IPT","rep 1","Jkukuslki",,,7.140,357.000,

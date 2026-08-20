@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"ca23450b-f8e5-44df-aa40-45ca2e7aaffe","D16","MCRA","MCRA.AOS.S2","2022-07-05T20:12Z","MCRA.SS.20220705",,"Sample condition ok","MCRA.SS.20220705.POM.2","A00000292720","Sample condition ok","MCRA.SS.20220705.POM.1","A00000292721","2022-07-05T22:02Z",1000,1000,
+"06efa31c-6c62-44a0-87d0-865198e50bdc","D16","MCRA","MCRA.AOS.S2","2022-07-05T20:12Z","MCRA.SS.20220705",,,,,,,,,,,

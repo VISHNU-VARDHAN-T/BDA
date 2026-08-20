@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"b9c73eeb-2299-4dc1-836b-c20b54646898","D02","POSE","POSE.AOS.S2","2022-01-11T13:16Z","POSE.SS.20220111",,"Sample condition ok","POSE.SS.20220111.POM.2","A00000166499","Sample condition ok","POSE.SS.20220111.POM.1","A00000166500","2022-01-11T15:47Z",600,600,
+"153bf4d1-08df-47d2-80a1-3725b370004b","D02","POSE","POSE.AOS.S2","2022-01-25T14:08Z","POSE.SS.20220125",,"Sample condition ok","POSE.SS.20220125.POM.2","A00000166478","Sample condition ok","POSE.SS.20220125.POM.1","A00000166477",,700,700,
+"8e18a9c5-fa42-4c91-875f-faae5ef91a19","D02","POSE","POSE.AOS.S2","2022-01-25T14:08Z","POSE.SS.20220125",,,,,,,,,,,
+"ecd4cea2-32ca-421d-9393-132692d377be","D02","POSE","POSE.AOS.S2","2022-01-25T14:08Z","POSE.SS.20220125",,,,,,,,,,,

@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"ccdcace6-b561-4139-8bab-8197a3235588","D06","KING","KING.AOS.S2","2022-02-01T15:43Z","KING.SS.20220201",,"Sample condition ok","KING.SS.20220201.POM.2","A00000319106","Sample condition ok","KING.SS.20220201.POM.1","A00000319105","2022-02-01T17:08Z",500,500,

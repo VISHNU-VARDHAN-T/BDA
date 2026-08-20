@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"d808ff83-ff1a-470c-b758-6f547db60875","D16","MCRA","MCRA.AOS.S2","2023-05-02T21:33Z","MCRA.SS.20230502",,"Sample condition ok","MCRA.SS.20230502.POM.2","A00000426744","Sample condition ok","MCRA.SS.20230502.POM.1","A00000426743","2023-05-03T00:53Z",1000,1000,
+"ea172cfb-9d4f-48cf-977c-002a77efb4a6","D16","MCRA","MCRA.AOS.S2","2023-05-23T20:40Z","MCRA.SS.20230523",,,,,,,,,,,
+"fa5cc620-25ea-4481-8731-a4a5fe1687e1","D16","MCRA","MCRA.AOS.S2","2023-05-23T20:40Z","MCRA.SS.20230523",,,,,,,,,,,
+"94a5f5bc-9e19-4b7b-bafd-c8523ce2f92c","D16","MCRA","MCRA.AOS.S2","2023-05-23T20:40Z","MCRA.SS.20230523",,"Sample condition ok","MCRA.SS.20230523.POM.2","A00000426910","Sample condition ok","MCRA.SS.20230523.POM.1","A00000426909","2023-05-24T00:40Z",1000,1000,

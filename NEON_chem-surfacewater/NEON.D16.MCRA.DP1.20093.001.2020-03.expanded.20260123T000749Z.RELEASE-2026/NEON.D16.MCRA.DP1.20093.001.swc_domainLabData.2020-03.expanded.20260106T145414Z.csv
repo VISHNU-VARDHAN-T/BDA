@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"b5281fd8-a465-4454-a9ec-3ae049691432","D16","MCRA","MCRA.AOS.S2","2020-03-03T18:10Z","2020-03-04T22:34Z","MCRA.SS.20200303","MCRA.SS.20200303.ANC",,"support facility","ANC",6.95,18.8,"0.16",150.0,"Gran",,"dcrandall",,,0.240,11.800,
+"5126e6cb-cf14-403e-a42e-0bcf268ca729","D16","MCRA","MCRA.AOS.S2","2020-03-03T18:10Z","2020-03-04T22:03Z","MCRA.SS.20200303","MCRA.SS.20200303.ALK",,"support facility","ALK",7.23,18.7,"0.16",150.0,"Gran",,"dcrandall",0.230,11.700,,,

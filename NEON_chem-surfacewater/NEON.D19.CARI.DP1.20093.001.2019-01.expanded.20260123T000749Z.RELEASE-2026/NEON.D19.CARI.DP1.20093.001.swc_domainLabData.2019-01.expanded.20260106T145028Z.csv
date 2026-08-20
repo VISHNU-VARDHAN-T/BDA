@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"3377c240-e42f-43f8-8368-2016a9c354ab","D19","CARI","CARI.AOS.reach","2019-01-22T20:07Z","2019-01-23T00:30Z","CARI.RE.20190122","CARI.RE.20190122.ALK",,"support facility","ALK",7.56,17.5,"0.16",50.0,"Gran",,"jmonroe@battelleecology.org",0.980,48.800,,,

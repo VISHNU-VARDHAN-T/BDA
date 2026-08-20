@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"fc0879f3-234b-4555-b549-8532d1329ac4","D19","CARI","CARI.AOS.S2","2023-04-04T19:00Z","2023-04-05T17:30Z","CARI.SS.20230404","CARI.SS.20230404.ALK",,"support facility","ALK",7.33,24.5,"0.16",150.0,"Gran",,"gomeze@battelleecology.org",1.040,51.800,,,
+"f48a340f-502e-4085-95bf-0d4815e4146f","D19","CARI","CARI.AOS.S2","2023-04-04T19:00Z","2023-04-05T18:25Z","CARI.SS.20230404","CARI.SS.20230404.ANC",,"support facility","ANC",7.39,24.7,"0.16",150.0,"Gran",,"gomeze@battelleecolgy.org",,,0.980,49.100,

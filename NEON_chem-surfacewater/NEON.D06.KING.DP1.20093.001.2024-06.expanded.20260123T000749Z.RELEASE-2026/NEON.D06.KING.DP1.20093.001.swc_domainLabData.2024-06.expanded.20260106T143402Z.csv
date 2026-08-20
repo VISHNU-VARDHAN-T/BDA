@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"4a1da2e1-4c27-4bb1-9bca-6c06d18fb5c7","D06","KING","KING.AOS.S2","2024-06-19T13:49Z","2024-06-19T19:27Z","KING.SS.20240619","KING.SS.20240619.ANC",,"support facility","ANC",7.75,18.3,"1.6",100.0,"IPT",,"gentryb@battelleecology.org",,,6.760,338.000,
+"5efaa3a5-e75e-46eb-ba93-c2d919355b77","D06","KING","KING.AOS.S2","2024-06-19T13:49Z","2024-06-19T19:01Z","KING.SS.20240619","KING.SS.20240619.ALK",,"support facility","ALK",7.76,17.1,"1.6",100.0,"IPT",,"gentryb@battelleecology.org",6.430,322.000,,,

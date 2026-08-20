@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"93d11da0-1d15-41d2-b05d-3e7263482d55","D19","CARI","CARI.AOS.S2","2021-09-06T20:00Z","2021-09-08T17:30Z","CARI.SS.20210906","CARI.SS.20210906.ANC",,"support facility","ANC",7.28,15.0,"0.16",50.0,"Gran",,"baldus@battelleecology.org",,,0.570,28.500,

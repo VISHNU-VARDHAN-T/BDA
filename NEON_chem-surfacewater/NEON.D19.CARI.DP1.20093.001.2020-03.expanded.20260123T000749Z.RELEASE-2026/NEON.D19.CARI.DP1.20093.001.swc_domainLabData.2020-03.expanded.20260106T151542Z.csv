@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"3e64ef32-c9a3-43f3-9df7-03b1af2aa781","D19","CARI","CARI.AOS.S2","2020-03-04T19:45Z","2020-03-06T01:00Z","CARI.SS.20200304","CARI.SS.20200304.ALK",,"support facility","ALK",7.23,18.5,"0.16",50.0,"Gran",,"jmonroe",0.950,47.700,,,
+"4bbb3d38-f163-4d11-ac9c-6870ff48c984","D19","CARI","CARI.AOS.S2","2020-03-04T19:45Z","2020-03-06T02:00Z","CARI.SS.20200304","CARI.SS.20200304.ANC",,"support facility","ANC",6.86,20.9,"0.16",50.0,"Gran",,"jmonroe",,,0.890,44.500,
+"969957a2-ec64-436a-a2fb-d360746b467e","D19","CARI","CARI.AOS.S2","2020-03-04T19:45Z","2020-03-06T01:35Z","CARI.SS.20200304","CARI.SS.20200304.ALK.REP2",,"support facility","ALK",7.05,19.5,"0.16",50.0,"Gran",,"jmonroe",0.960,48.300,,,

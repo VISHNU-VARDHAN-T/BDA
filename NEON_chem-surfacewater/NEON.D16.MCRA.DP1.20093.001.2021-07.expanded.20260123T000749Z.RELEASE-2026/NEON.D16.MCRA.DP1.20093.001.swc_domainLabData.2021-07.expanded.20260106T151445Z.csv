@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"6e7225ed-5dd4-4d00-881d-99c3750970ef","D16","MCRA","MCRA.AOS.S2","2021-07-13T16:45Z","2021-07-14T20:44Z","MCRA.SS.20210713","MCRA.SS.20210713.ALK",,"support facility","ALK",7.02,17.9,"0.16",150.0,"Gran",,"akeithline@battelleecology.org",0.260,13.000,,,
+"9009025f-fedc-4a55-956a-9f0cbb677ad1","D16","MCRA","MCRA.AOS.S2","2021-07-13T16:45Z","2021-07-14T21:33Z","MCRA.SS.20210713","MCRA.SS.20210713.ANC",,"support facility","ANC",7.06,19.8,"0.16",150.0,"Gran",,"akeithline@battelleecology.org",,,0.260,12.800,

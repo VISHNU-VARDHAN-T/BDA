@@ -1,0 +1,3082 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns18:eml packageId="" system="https://www.neonscience.org" scope="system" xmlns:ns2="https://eml.ecoinformatics.org/access-2.2.0" xmlns:ns4="https://eml.ecoinformatics.org/software-2.2.0" xmlns:ns3="https://eml.ecoinformatics.org/literature-2.2.0" xmlns:ns6="https://eml.ecoinformatics.org/protocol-2.2.0" xmlns:ns20="https://eml.ecoinformatics.org/text-2.2.0" xmlns:ns5="https://eml.ecoinformatics.org/project-2.2.0" xmlns:ns8="https://eml.ecoinformatics.org/physical-2.2.0" xmlns:ns7="https://eml.ecoinformatics.org/methods-2.2.0" xmlns:ns13="https://eml.ecoinformatics.org/spatialVector-2.2.0" xmlns:ns9="https://eml.ecoinformatics.org/attribute-2.2.0" xmlns:ns12="https://eml.ecoinformatics.org/spatialRaster-2.2.0" xmlns:ns11="https://eml.ecoinformatics.org/spatialReference-2.2.0" xmlns:ns22="https://eml.ecoinformatics.org/semantics-2.2.0" xmlns:ns10="https://eml.ecoinformatics.org/dataTable-2.2.0" xmlns:ns21="https://eml.ecoinformatics.org/party-2.2.0" xmlns:ns17="https://eml.ecoinformatics.org/dataset-2.2.0" xmlns:ns16="https://eml.ecoinformatics.org/entity-2.2.0" xmlns:ns15="https://eml.ecoinformatics.org/view-2.2.0" xmlns:ns14="https://eml.ecoinformatics.org/storedProcedure-2.2.0" xmlns:ns19="https://eml.ecoinformatics.org/documentation-2.2.0" xmlns:ns18="https://eml.ecoinformatics.org/eml-2.2.0">
+    <dataset id="NEON.D01.HOPB.DP1.20093.001.20230711-20230719">
+        <shortName>NEON HOPB Chemical properties of surface water 2023-07-11 to 2023-07-19</shortName>
+        <title>NEON Chemical properties of surface water at HOPB, Northeast Domain, 2023-07-11 to 2023-07-19</title>
+        <creator id="neon_contact"/>
+        <creator id="neon_contact">
+            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+            <address>
+                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                <city>Boulder</city>
+                <administrativeArea>CO</administrativeArea>
+                <postalCode>80301</postalCode>
+                <country>USA</country>
+            </address>
+            <phone phonetype="voice">720-746-4844</phone>
+            <electronicMailAddress/>
+            <onlineUrl>http://www.neonscience.org</onlineUrl>
+        </creator>
+        <metadataProvider id="neon_contact"/>
+        <metadataProvider>
+            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+            <address>
+                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                <city>Boulder</city>
+                <administrativeArea>CO</administrativeArea>
+                <postalCode>80301</postalCode>
+                <country>USA</country>
+            </address>
+            <phone phonetype="voice">720-746-4844</phone>
+            <electronicMailAddress/>
+            <onlineUrl>http://www.neonscience.org</onlineUrl>
+        </metadataProvider>
+        <pubDate>2026-01-06</pubDate>
+        <language>English</language>
+        <intellectualRights>
+            
+            <para>NEON Data Usage and Citation Policy</para>
+            <para>Copyright © 2024 National Ecological Observatory Network</para>
+            <para>In most countries, data and facts are not copyrightable. By putting NEON data into the public domain, we encourage broad use, particularly in scientific analyses and data aggregations. However, please be mindful of the following scholarly norms:
+	        <list type="bullet">
+		    <item>
+		        <description>NEON data should be used in a way that is mindful of the limitations of the data, using the documentation associated with the data packages as a guide.
+			</description>
+		    </item>
+		    <item>
+		        <description>Unlike most scientific data, NEON data is not associated with individual authors; rather, the ‘author’ of data produced by the Observatory is NEON itself. Attributions and citations should be made to NEON for any use of the data.
+			</description>
+		    </item>
+		</list>
+	    </para>        
+        </intellectualRights>
+        <distribution>
+            <online>
+                <url function="information">https://www.neonscience.org/</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage id="HOPB">
+                <geographicDescription>HOPB, D01</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-72.329526</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-72.329526</eastBoundingCoordinate>
+                    <northBoundingCoordinate>42.471941</northBoundingCoordinate>
+                    <southBoundingCoordinate>42.471941</southBoundingCoordinate>
+                    <boundingAltitudes>
+                        <altitudeMinimum>203.42</altitudeMinimum>
+                        <altitudeMaximum>203.42</altitudeMaximum>
+                        <altitudeUnits>meter</altitudeUnits>
+                    </boundingAltitudes>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>2023-07-11</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>2023-07-19</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose>Grab samples of surface water chemistry including general chemistry, anions, cations, and nutrients.</purpose>
+        <maintenance>
+            <description>
+                
+                <para>These data are available via the NEON website (https://www.neonscience.org).</para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact id="neon_contact"/>
+        <contact>
+            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+            <address>
+                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                <city>Boulder</city>
+                <administrativeArea>CO</administrativeArea>
+                <postalCode>80301</postalCode>
+                <country>USA</country>
+            </address>
+            <phone phonetype="voice">720-746-4844</phone>
+            <electronicMailAddress/>
+            <onlineUrl>http://www.neonscience.org</onlineUrl>
+        </contact>
+        <publisher>
+            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+            <address>
+                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                <city>Boulder</city>
+                <administrativeArea>CO</administrativeArea>
+                <postalCode>80301</postalCode>
+                <country>USA</country>
+            </address>
+            <phone phonetype="voice">720-746-4844</phone>
+            <electronicMailAddress/>
+            <onlineUrl>http://www.neonscience.org</onlineUrl>
+        </publisher>
+        <project>
+            <title>National Ecological Observatory Network (NEON)</title>
+            <personnel>
+                <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+                <address>
+                    <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                    <city>Boulder</city>
+                    <administrativeArea>CO</administrativeArea>
+                    <postalCode>80301</postalCode>
+                    <country>USA</country>
+                </address>
+                <phone phonetype="voice">720-746-4844</phone>
+                <electronicMailAddress>neonscience@battelleecology.org</electronicMailAddress>
+                <onlineUrl>https://www.neonscience.org</onlineUrl>
+                <role>originator</role>
+            </personnel>
+            <abstract>
+                
+                <para>The National Ecological Observatory Network is a program sponsored by the National Science Foundation and cooperatively managed by Battelle.</para>
+                
+                <para>NEON's mission is to collect and freely share critical ecological data, samples, and infrastructure with researchers and the public to advance understanding of ecological processes and inform the sustainable management of U.S. ecosystems.</para>
+            </abstract>
+            <funding>
+                <para>NEON is funded by several National Science Foundation (NSF) awards.</para>
+            </funding>
+            <award>
+                <funderName>National Science Foundation</funderName>
+                <funderIdentifier>https://doi.org/10.13039/00000001</funderIdentifier>
+                <awardNumber>2217817</awardNumber>
+                <title>NEON Operations and Maintenance: Evolving from a Strong Foundation</title>
+                <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217817</awardUrl>
+            </award> 
+            <award>
+                <funderName>National Science Foundation</funderName>
+                <funderIdentifier>https://ror.org/021nxhr62</funderIdentifier>
+                <awardNumber>1724433</awardNumber>
+                <title>National Ecological Observatory Network: Operations Activities</title>
+                <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1724433</awardUrl>
+            </award>
+            <award>
+                <funderName>National Science Foundation</funderName>
+                <funderIdentifier>https://ror.org/021nxhr62</funderIdentifier>
+                <awardNumber>1638696</awardNumber>
+                <title>National Ecological Observatory Network: Operations Activities</title>
+                <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638696</awardUrl>
+            </award>
+            <award>
+                <funderName>National Science Foundation</funderName>
+                <funderIdentifier>https://ror.org/021nxhr62</funderIdentifier>
+                <awardNumber>1638695</awardNumber>
+                <title>National Ecological Observatory Network: Construction and Transition</title>
+                <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1638695</awardUrl>
+            </award>
+            <award>
+                <funderName>National Science Foundation</funderName>
+                <funderIdentifier>https://ror.org/021nxhr62</funderIdentifier>
+                <awardNumber>1246537</awardNumber>
+                <title>NEON Initial Operations</title>
+                <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1246537</awardUrl>
+            </award>
+            <award>
+                <funderName>National Science Foundation</funderName>
+                <funderIdentifier>https://ror.org/021nxhr62</funderIdentifier>
+                <awardNumber>1138160</awardNumber>
+                <title>Construction and Operations of the National Ecological Observatory</title>
+                <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1138160</awardUrl>
+            </award>
+            <award>
+                <funderName>National Science Foundation</funderName>
+                <funderIdentifier>https://ror.org/021nxhr62</funderIdentifier>
+                <awardNumber>1029808</awardNumber>
+                <title>Cooperative Support Agreement for Major Research Equipment and Facilities Construction (MREFC) of the National Ecological Observatory</title>
+                <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1029808</awardUrl>
+            </award>
+            <award>
+                <funderName>National Science Foundation</funderName>
+                <funderIdentifier>https://ror.org/021nxhr62</funderIdentifier>
+                <awardNumber>0752017</awardNumber>
+                <title>Organizational and Project Management Support to complete the NEON Construction Ready Design and Project Execution Plan.</title>
+                <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=0752017</awardUrl>
+            </award>
+            <award>
+                <funderName>National Science Foundation</funderName>
+                <funderIdentifier>https://ror.org/021nxhr62</funderIdentifier>
+                <awardNumber>0653461</awardNumber>
+                <title>Initial NEON Procurements for Science and Organizational Development</title>
+                <awardUrl>https://www.nsf.gov/awardsearch/showAward?AWD_ID=0653461</awardUrl>
+            </award>
+            <studyAreaDescription>
+                <citation id="neon_2011_sciencedesign">
+                    <title>"2011 Science Strategy: Enabling Continental-Scale Ecological Forecasting"</title>
+                    <creator>
+                        <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+                        <address>
+                            <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                            <city>Boulder</city>
+                            <administrativeArea>CO</administrativeArea>
+                            <postalCode>80301</postalCode>
+                            <country>USA</country>
+                        </address>
+                        <phone phonetype="voice">720-746-4844</phone>
+                        <electronicMailAddress/>
+                        <onlineUrl>http://www.neonscience.org</onlineUrl>
+                    </creator>
+                    <pubDate>2011</pubDate>
+                    <language>English</language>
+                    <intellectualRights>Copyright © 2011 National Ecological Observatory Network (NEON). ALL RIGHTS RESERVED</intellectualRights>
+                    <distribution>
+                        <online>
+                            <url>https://data.neonscience.org/api/v0/documents/NEON_Strategy_2011u2_0</url>
+                        </online>
+                    </distribution>
+                    <report>
+                        <publisher>
+                            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+                            <address>
+                                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                                <city>Boulder</city>
+                                <administrativeArea>CO</administrativeArea>
+                                <postalCode>80301</postalCode>
+                                <country>USA</country>
+                            </address>
+                            <phone phonetype="voice">720-746-4844</phone>
+                            <electronicMailAddress/>
+                            <onlineUrl>http://www.neonscience.org</onlineUrl>
+                        </publisher>
+                        <totalPages>56</totalPages>
+                    </report>
+                </citation>
+            </studyAreaDescription>
+            <designDescription>
+                <citation>
+                    <references>neon_2011_sciencedesign</references>
+                </citation>
+            </designDescription>
+        </project>
+        <dataTable>
+            <entityName>NEON.D01.HOPB.DP1.20093.001.swc_domainLabData.2023-07.expanded.20260106T150856Z</entityName>
+            <attributeList>
+                <attribute>
+                    <attributeName>uid</attributeName>
+                    <attributeDefinition>Unique ID within NEON database; an identifier for the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique ID within NEON database; an identifier for the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainID</attributeName>
+                    <attributeDefinition>Unique identifier of the NEON domain</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique identifier of the NEON domain</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>siteID</attributeName>
+                    <attributeDefinition>NEON site code</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON site code</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>namedLocation</attributeName>
+                    <attributeDefinition>Name of the measurement location in the NEON database</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the measurement location in the NEON database</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>collectDate</attributeName>
+                    <attributeDefinition>Date of the collection event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>titrationDate</attributeName>
+                    <attributeDefinition>Date and time of titration</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>parentSampleID</attributeName>
+                    <attributeDefinition>Parent sampleID of sample being processed</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Parent sampleID of sample being processed</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainSampleID</attributeName>
+                    <attributeDefinition>Identifier for sample from domain lab</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for sample from domain lab</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainSampleCode</attributeName>
+                    <attributeDefinition>Barcode of the domain lab sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of the domain lab sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>titrationLocation</attributeName>
+                    <attributeDefinition>Location where sample titration was completed</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>support facility</code>
+                                        <definition>Support Facility</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>other</code>
+                                        <definition>Other</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleType</attributeName>
+                    <attributeDefinition>Type of sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>ANC</code>
+                                        <definition>ANC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>ALK</code>
+                                        <definition>ALK</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>initialSamplepH</attributeName>
+                    <attributeDefinition>pH at start of titration</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>pH</customUnit>
+                            </unit>
+                            <precision>0.01</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>initialSampleTemp</attributeName>
+                    <attributeDefinition>Temperature at start of titration</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>celsius</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>normality</attributeName>
+                    <attributeDefinition>Titrant normality used</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>0.16</code>
+                                        <definition>0.16</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>1.6</code>
+                                        <definition>1.6</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleVolume</attributeName>
+                    <attributeDefinition>Sample volume in milliliters</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>milliliter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>methodType</attributeName>
+                    <attributeDefinition>Method of titration used</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>IPT</code>
+                                        <definition>IPT</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Gran</code>
+                                        <definition>Gran</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>remarks</attributeName>
+                    <attributeDefinition>Technician notes; free text comments accompanying the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Technician notes; free text comments accompanying the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>measuredBy</attributeName>
+                    <attributeDefinition>An identifier for the technician who measured or collected the data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the technician who measured or collected the data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>alkMeqPerL</attributeName>
+                    <attributeDefinition>alkalinity titration result in milliequivalents per Liter</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>milliequivalentsPerLiter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>alkMgPerL</attributeName>
+                    <attributeDefinition>alkalinity titration result in milligrams of Calcium Carbonate per Liter</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>milligramsPerLiter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>ancMeqPerL</attributeName>
+                    <attributeDefinition>acid neutralizing capacity titration result in milliequivalents per Liter</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>milliequivalentsPerLiter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>ancMgPerL</attributeName>
+                    <attributeDefinition>acid neutralizing capacity titration result in milligrams of Calcium Carbonate per Liter</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>milligramsPerLiter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>dataQF</attributeName>
+                    <attributeDefinition>Data quality flag</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Data quality flag</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+            </attributeList>
+            <caseSensitive>yes</caseSensitive>
+            <numberOfRecords>3</numberOfRecords>
+        </dataTable>
+        <dataTable>
+            <entityName>NEON.D01.HOPB.DP1.20093.001.swc_externalLabDataByAnalyte.2023-07.expanded.20260106T150856Z</entityName>
+            <attributeList>
+                <attribute>
+                    <attributeName>coolerTemp</attributeName>
+                    <attributeDefinition>Temperature of the cooler when the sample arrived at the external lab</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>celsius</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>remarks</attributeName>
+                    <attributeDefinition>Technician notes; free text comments accompanying the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Technician notes; free text comments accompanying the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>shipmentWarmQF</attributeName>
+                    <attributeDefinition>Quality Flag for cooler arriving at external lab too warm (above 6 C)</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Quality Flag for cooler arriving at external lab too warm (above 6 C)</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>externalLabDataQF</attributeName>
+                    <attributeDefinition>Data quality flag for external lab data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Data quality flag for external lab data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleCondition</attributeName>
+                    <attributeDefinition>Condition of a sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Cold Chain Broken</code>
+                                        <definition>Sample Received Warm But Analyzable</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Limited Volume Analyte Not Analyzed</code>
+                                        <definition>Limited Volume Analyte Not Analyzed</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample Received Warm But Analyzable|Cold Chain Broken During Storage|Hold Time Exceeded</code>
+                                        <definition>Sample Received Warm But Analyzable|Cold Chain Broken During Storage|Hold Time Exceeded</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample Received Warm But Analyzable|Hold Time Exceeded</code>
+                                        <definition>Sample Received Warm But Analyzable|Hold Time Exceeded</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample Received Warm But Not Analyzable</code>
+                                        <definition>Sample Received Warm But Not Analyzable</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>OK</code>
+                                        <definition>OK</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Other</code>
+                                        <definition>Other</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>FIL Sample Particulates Re-filtered</code>
+                                        <definition>FIL Sample Particulates Re-filtered</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Cold Chain Broken During Storage|Hold Time Exceeded</code>
+                                        <definition>Cold Chain Broken During Storage|Hold Time Exceeded</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Hold Time Exceeded|Limited Volume Analyte Not Analyzed</code>
+                                        <definition>Hold Time Exceeded|Limited Volume Analyte Not Analyzed</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Backwards Filter Membrane</code>
+                                        <definition>Backwards Filter Membrane</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample Damaged or Lost</code>
+                                        <definition>Sample Received Damaged But Analyzable</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Cold Chain Broken During Storage|Limited Volume Analyte Not Analyzed</code>
+                                        <definition>Cold Chain Broken During Storage|Limited Volume Analyte Not Analyzed</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Hold Time Exceeded</code>
+                                        <definition>Hold Time Exceeded</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample Received Warm But Analyzable|Limited Volume Analyte Not Analyzed</code>
+                                        <definition>Sample Received Warm But Analyzable|Limited Volume Analyte Not Analyzed</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample Damaged or Lost</code>
+                                        <definition>Sample Damaged or Lost During Storage</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Cold Chain Broken</code>
+                                        <definition>Cold Chain Broken During Storage</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>FIL Sample Particulates Re-filtered|Sample Received Warm But Analyzable</code>
+                                        <definition>FIL Sample Particulates Re-filtered|Sample Received Warm But Analyzable</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>analysisDate</attributeName>
+                    <attributeDefinition>Date that the sample was analyzed</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>belowDetectionQF</attributeName>
+                    <attributeDefinition>Quality Flag indicating that at least one of the parameters in this record is below the method detection limit</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>ND</code>
+                                        <definition>ND</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>BDL</code>
+                                        <definition>BDL</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>uid</attributeName>
+                    <attributeDefinition>Unique ID within NEON database; an identifier for the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique ID within NEON database; an identifier for the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainID</attributeName>
+                    <attributeDefinition>Unique identifier of the NEON domain</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique identifier of the NEON domain</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>siteID</attributeName>
+                    <attributeDefinition>NEON site code</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON site code</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>namedLocation</attributeName>
+                    <attributeDefinition>Name of the measurement location in the NEON database</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the measurement location in the NEON database</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleID</attributeName>
+                    <attributeDefinition>Identifier for sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleCode</attributeName>
+                    <attributeDefinition>Barcode of a sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of a sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>startDate</attributeName>
+                    <attributeDefinition>The start date-time or interval during which an event occurred</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>collectDate</attributeName>
+                    <attributeDefinition>Date of the collection event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>laboratoryName</attributeName>
+                    <attributeDefinition>Name of the laboratory or facility that is processing the sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the laboratory or facility that is processing the sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>analyte</attributeName>
+                    <attributeDefinition>Analyte or parameter measured</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Si</code>
+                                        <definition>Si</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TN</code>
+                                        <definition>TN</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NH4 - N</code>
+                                        <definition>NH4 - N</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>SO4</code>
+                                        <definition>SO4</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TPN</code>
+                                        <definition>TPN</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TDN</code>
+                                        <definition>TDN</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Ca</code>
+                                        <definition>Ca</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TDS</code>
+                                        <definition>TDS</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TP</code>
+                                        <definition>TP</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Cl</code>
+                                        <definition>Cl</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TSS - Dry Mass</code>
+                                        <definition>TSS - Dry Mass</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TDP</code>
+                                        <definition>TDP</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Na</code>
+                                        <definition>Na</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>ANC</code>
+                                        <definition>ANC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NO2 - N</code>
+                                        <definition>NO2 - N</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>CO3</code>
+                                        <definition>CO3</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Fe</code>
+                                        <definition>Fe</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TSS</code>
+                                        <definition>TSS</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Br</code>
+                                        <definition>Br</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>UV Absorbance (254 nm)</code>
+                                        <definition>UV Absorbance (250 nm)</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>UV Absorbance (254 nm)</code>
+                                        <definition>UV Absorbance (254 nm)</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Ortho - P</code>
+                                        <definition>Ortho - P</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>DIC</code>
+                                        <definition>DIC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>F</code>
+                                        <definition>F</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TOC</code>
+                                        <definition>TOC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>specificConductance</code>
+                                        <definition>specificConductance</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>specificConductance</code>
+                                        <definition>conductivity</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>UV Absorbance (280 nm)</code>
+                                        <definition>UV Absorbance (280 nm)</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>HCO3</code>
+                                        <definition>HCO3</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>pH</code>
+                                        <definition>pH</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NO3+NO2 - N</code>
+                                        <definition>NO3+NO2 - N</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Mg</code>
+                                        <definition>Mg</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>TPC</code>
+                                        <definition>TPC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Mn</code>
+                                        <definition>Mn</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>DOC</code>
+                                        <definition>DOC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>K</code>
+                                        <definition>K</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>analyteConcentration</attributeName>
+                    <attributeDefinition>Concentration of analyte</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>NA</customUnit>
+                            </unit>
+                            <precision>1.0E-4</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>analyteUnits</attributeName>
+                    <attributeDefinition>Associated units of measure for analyte</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>microgramsPerLiter</code>
+                                        <definition>microgramsPerLiter</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>pH</code>
+                                        <definition>pH</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>milligram</code>
+                                        <definition>milligram</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>microgram</code>
+                                        <definition>microgram</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>milligramsPerLiter</code>
+                                        <definition>milligramsPerLiter</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>microgramsNitrogenPerLiter</code>
+                                        <definition>microgramsNitrogenPerLiter</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>microgramsCarbonPerLiter</code>
+                                        <definition>microgramsCarbonPerLiter</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>milliequivalentsPerLiter</code>
+                                        <definition>milliequivalentsPerLiter</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>absorbance units</code>
+                                        <definition>absorbance units</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>microsiemensPerCentimeter</code>
+                                        <definition>microsiemensPerCentimeter</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+            </attributeList>
+            <caseSensitive>yes</caseSensitive>
+            <numberOfRecords>56</numberOfRecords>
+        </dataTable>
+        <dataTable>
+            <entityName>NEON.D01.HOPB.DP1.20093.001.swc_fieldSuperParent.2023-07.expanded.20260106T150856Z</entityName>
+            <attributeList>
+                <attribute>
+                    <attributeName>uid</attributeName>
+                    <attributeDefinition>Unique ID within NEON database; an identifier for the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique ID within NEON database; an identifier for the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainID</attributeName>
+                    <attributeDefinition>Unique identifier of the NEON domain</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique identifier of the NEON domain</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>siteID</attributeName>
+                    <attributeDefinition>NEON site code</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON site code</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>namedLocation</attributeName>
+                    <attributeDefinition>Name of the measurement location in the NEON database</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the measurement location in the NEON database</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>decimalLatitude</attributeName>
+                    <attributeDefinition>The geographic latitude (in decimal degrees, WGS84) of the geographic center of the reference area</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>decimalDegree</customUnit>
+                            </unit>
+                            <precision>1.0E-6</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>decimalLongitude</attributeName>
+                    <attributeDefinition>The geographic longitude (in decimal degrees, WGS84) of the geographic center of the reference area</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>decimalDegree</customUnit>
+                            </unit>
+                            <precision>1.0E-6</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>coordinateUncertainty</attributeName>
+                    <attributeDefinition>The horizontal distance (in meters) from the given decimalLatitude and decimalLongitude describing the smallest circle containing the whole of the Location. Zero is not a valid value for this term</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>additionalCoordUncertainty</attributeName>
+                    <attributeDefinition>Additional uncertainty to be added to the coordinate uncertainty at all sites</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>elevation</attributeName>
+                    <attributeDefinition>Elevation (in meters) above sea level</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>elevationUncertainty</attributeName>
+                    <attributeDefinition>Uncertainty in elevation values (in meters)</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>geodeticDatum</attributeName>
+                    <attributeDefinition>Model used to measure horizontal position on the earth</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Model used to measure horizontal position on the earth</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>altLocation</attributeName>
+                    <attributeDefinition>Alternate Sampling Location description</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Alternate Sampling Location description</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>altLatitude</attributeName>
+                    <attributeDefinition>Alternate Sampling Location coordinate - latitude</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>decimalDegree</customUnit>
+                            </unit>
+                            <precision>1.0E-6</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>altLongitude</attributeName>
+                    <attributeDefinition>Alternate Sampling Location coordinate - longitude</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>decimalDegree</customUnit>
+                            </unit>
+                            <precision>1.0E-6</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>altCoordinateUncertainty</attributeName>
+                    <attributeDefinition>The horizontal distance (in meters) from the given altLatitude and altLongitude describing the smallest circle containing the whole of the Location. Zero is not a valid value for this term</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>altGeodeticDatum</attributeName>
+                    <attributeDefinition>Model used to measure horizontal position on the earth for alternate location coordinate</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Model used to measure horizontal position on the earth for alternate location coordinate</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>collectDate</attributeName>
+                    <attributeDefinition>Date of the collection event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>aquaticSiteType</attributeName>
+                    <attributeDefinition>Type of aquatic site, includes lake, river or stream</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>lake</code>
+                                        <definition>lake</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>river</code>
+                                        <definition>river</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>stream</code>
+                                        <definition>stream</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>samplingImpractical</attributeName>
+                    <attributeDefinition>Samples and/or measurements were not collected due to the indicated circumstance</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>location burned</code>
+                                        <definition>location burned</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>low yield groundwater</code>
+                                        <definition>low yield groundwater</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>logistical</code>
+                                        <definition>logistical</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>location vulnerable to planned sampling</code>
+                                        <definition>location vulnerable to planned sampling</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>safety hazard</code>
+                                        <definition>safety</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>onshore protocols only</code>
+                                        <definition>onshore protocols only</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>staff gauge not installed</code>
+                                        <definition>staff gauge not installed</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>other</code>
+                                        <definition>other</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>staff gauge disturbed</code>
+                                        <definition>staff gauge disturbed</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>extreme weather</code>
+                                        <definition>extreme weather</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>OK</code>
+                                        <definition>OK</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>night fishing</code>
+                                        <definition>night fishing</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>ambient clip cell not harvested, plants senesced for entire sampling interval</code>
+                                        <definition>ambient clip cell not harvested, plants senesced for entire sampling interval</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>coordinates not suitable</code>
+                                        <definition>coordinates not suitable</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>temperature low</code>
+                                        <definition>temperature low</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>ambient cell not clipped, livestock absent</code>
+                                        <definition>ambient cell not clipped, livestock absent</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>exclosure cell not clipped, livestock absent</code>
+                                        <definition>exclosure cell not clipped, livestock absent</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>obstruction</code>
+                                        <definition>obstruction</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>disturbance</code>
+                                        <definition>disturbance</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>wildlife hazard</code>
+                                        <definition>wildlife hazard</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>high water velocity</code>
+                                        <definition>high water velocity</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>wildfire</code>
+                                        <definition>wildfire</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>exclosure clip cell not harvested, plants senesced for entire sampling interval</code>
+                                        <definition>exclosure clip cell not harvested, plants senesced for entire sampling interval</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>location snow covered</code>
+                                        <definition>location snow covered</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>horizon not present</code>
+                                        <definition>horizon not present</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>location dry</code>
+                                        <definition>location dry</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>location flooded</code>
+                                        <definition>location flooded</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>too windy</code>
+                                        <definition>too windy</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>location wet</code>
+                                        <definition>location wet</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>outside target flow range</code>
+                                        <definition>outside target flow range</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>temperature high</code>
+                                        <definition>temperature high</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>shallow groundwater</code>
+                                        <definition>shallow groundwater</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>location frozen</code>
+                                        <definition>location frozen</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>management</code>
+                                        <definition>management</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>parentSampleID</attributeName>
+                    <attributeDefinition>Parent sampleID of sample being processed</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Parent sampleID of sample being processed</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>eventID</attributeName>
+                    <attributeDefinition>An identifier for the set of information associated with the event, which includes information about the place and time of the event</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the set of information associated with the event, which includes information about the place and time of the event</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>samplerType</attributeName>
+                    <attributeDefinition>Type of sampler used to collect the sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Groundwater Bailer Tube</code>
+                                        <definition>Groundwater Bailer Tube</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Grab</code>
+                                        <definition>Grab</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Groundwater Pump</code>
+                                        <definition>Groundwater Pump</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Kemmerer</code>
+                                        <definition>Kemmerer</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Groundwater Peristaltic Pump</code>
+                                        <definition>Groundwater Peristaltic Pump</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Syringe and Bailer Tube</code>
+                                        <definition>Syringe and Bailer Tube</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Syringe</code>
+                                        <definition>Syringe</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Van Dorn</code>
+                                        <definition>Van Dorn</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>dissolvedOxygen</attributeName>
+                    <attributeDefinition>Dissolved Oxygen Concentration</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>milligramsPerLiter</customUnit>
+                            </unit>
+                            <precision>0.01</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>dissolvedOxygenSaturation</attributeName>
+                    <attributeDefinition>Dissolved Oxygen Percent Saturation</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>percent</customUnit>
+                            </unit>
+                            <precision>0.01</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>specificConductance</attributeName>
+                    <attributeDefinition>Conductivity auto-corrected to 25 degrees C</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>microsiemensPerCentimeter</customUnit>
+                            </unit>
+                            <precision>0.01</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>waterTemp</attributeName>
+                    <attributeDefinition>Temperature of water (C)</attributeDefinition>
+                    <measurementScale>
+                        <interval>
+                            <unit>
+                                <customUnit>celsius</customUnit>
+                            </unit>
+                            <precision>0.01</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </interval>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>swcSamplingProtocolVersion</attributeName>
+                    <attributeDefinition>The NEON document number and version of the water chemistry protocol where detailed information regarding the sampling method used is available; format NEON.DOC.######vX</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.002905vH</code>
+                                        <definition>NEON.DOC.002905vH</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.001190vA</code>
+                                        <definition>NEON.DOC.001190vA</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000694vC</code>
+                                        <definition>NEON.DOC.000694vC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.001190vB</code>
+                                        <definition>NEON.DOC.001190vB</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.001190vD</code>
+                                        <definition>NEON.DOC.001190vD</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.002905vE</code>
+                                        <definition>NEON.DOC.002905vE</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.002905vB</code>
+                                        <definition>NEON.DOC.002905vB</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.002905vA</code>
+                                        <definition>NEON.DOC.002905vA</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.002905vC</code>
+                                        <definition>NEON.DOC.002905vC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000694vG</code>
+                                        <definition>NEON.DOC.000694vG</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000694vB</code>
+                                        <definition>NEON.DOC.000694vB</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.001219vB</code>
+                                        <definition>NEON.DOC.001219vB</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000694vF</code>
+                                        <definition>NEON.DOC.000694vF</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000694vE</code>
+                                        <definition>NEON.DOC.000694vE</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.002905vG</code>
+                                        <definition>NEON.DOC.002905vG</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.002905vJ</code>
+                                        <definition>NEON.DOC.002905vJ</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.001219vD</code>
+                                        <definition>NEON.DOC.001219vD</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.001219vC</code>
+                                        <definition>NEON.DOC.001219vC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000694vA</code>
+                                        <definition>NEON.DOC.000694vA</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000694vD</code>
+                                        <definition>NEON.DOC.000694vD</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.002905vF</code>
+                                        <definition>NEON.DOC.002905vF</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.001219vA</code>
+                                        <definition>NEON.DOC.001219vA</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.002905vD</code>
+                                        <definition>NEON.DOC.002905vD</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.001190vC</code>
+                                        <definition>NEON.DOC.001190vC</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>lowerSegmentDepth</attributeName>
+                    <attributeDefinition>Depth at bottom of stratified lake segment</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>upperSegmentDepth</attributeName>
+                    <attributeDefinition>Depth at top of stratified lake segment</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>maxDepth</attributeName>
+                    <attributeDefinition>Maximum depth</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>lakeSampleDepth1</attributeName>
+                    <attributeDefinition>Sample depth of a single lake sample collected below the surface; the sample depth of the upper sample for a composite lake sample collected below the surface</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>lakeSampleDepth2</attributeName>
+                    <attributeDefinition>Sample depth of the lower sample for a composite lake sample collected below the surface</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>aCollectedBy</attributeName>
+                    <attributeDefinition>Primary NEON technician username who collected the data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Primary NEON technician username who collected the data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>bCollectedBy</attributeName>
+                    <attributeDefinition>Secondary NEON technician username who collected the data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Secondary NEON technician username who collected the data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>remarks</attributeName>
+                    <attributeDefinition>Technician notes; free text comments accompanying the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Technician notes; free text comments accompanying the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>fieldDataQF</attributeName>
+                    <attributeDefinition>Data quality flag for field data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Data quality flag for field data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>waterChemSamplesCollected</attributeName>
+                    <attributeDefinition>Indicator of whether any water chemistry samples were collected</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>NOT_SCHEDULED</code>
+                                        <definition>NOT_SCHEDULED</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>N</code>
+                                        <definition>N</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Y</code>
+                                        <definition>Y</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+            </attributeList>
+            <caseSensitive>yes</caseSensitive>
+            <numberOfRecords>2</numberOfRecords>
+        </dataTable>
+        <dataTable>
+            <entityName>NEON.D01.HOPB.DP1.20093.001.swc_fieldData.2023-07.expanded.20260106T150856Z</entityName>
+            <attributeList>
+                <attribute>
+                    <attributeName>remarks</attributeName>
+                    <attributeDefinition>Technician notes; free text comments accompanying the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Technician notes; free text comments accompanying the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>shipmentTimeRange</attributeName>
+                    <attributeDefinition>Indicates time delay between sample collection and shipment</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>within 24 to 72 hours of collection</code>
+                                        <definition>within 24 to 72 hours of collection</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>within 24 hours of collection</code>
+                                        <definition>within 24 hours of collection</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>more than 72 hours after collection</code>
+                                        <definition>more than 72 hours after collection</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>uid</attributeName>
+                    <attributeDefinition>Unique ID within NEON database; an identifier for the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique ID within NEON database; an identifier for the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainID</attributeName>
+                    <attributeDefinition>Unique identifier of the NEON domain</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique identifier of the NEON domain</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>siteID</attributeName>
+                    <attributeDefinition>NEON site code</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON site code</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>namedLocation</attributeName>
+                    <attributeDefinition>Name of the measurement location in the NEON database</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the measurement location in the NEON database</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>collectDate</attributeName>
+                    <attributeDefinition>Date of the collection event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>parentSampleID</attributeName>
+                    <attributeDefinition>Parent sampleID of sample being processed</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Parent sampleID of sample being processed</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleID</attributeName>
+                    <attributeDefinition>Identifier for sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>replicateNumber</attributeName>
+                    <attributeDefinition>The number for the sample replicate</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>NA</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>integer</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>processedDate</attributeName>
+                    <attributeDefinition>Date or date and time of processing event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>processedDateFilters</attributeName>
+                    <attributeDefinition>Date or date and time of processing event of filtered samples</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleVolumeFiltered</attributeName>
+                    <attributeDefinition>Volume of water filtered onto the filter for external analysis</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>milliliter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>fieldDataQF</attributeName>
+                    <attributeDefinition>Data quality flag for field data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Data quality flag for field data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>filtSampleCond</attributeName>
+                    <attributeDefinition>Condition of filtered sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Other (specified in remarks)</code>
+                                        <definition>other</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Backwards Filter Membrane</code>
+                                        <definition>Backwards Filter Membrane</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Cold chain broken</code>
+                                        <definition>cold chain broken</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Lost</code>
+                                        <definition>lost</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample condition ok</code>
+                                        <definition>OK</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>filtSampleID</attributeName>
+                    <attributeDefinition>Identifier for filtered sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for filtered sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>filtSampleCode</attributeName>
+                    <attributeDefinition>Barcode of a filtered sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of a filtered sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>filtNutSampleCond</attributeName>
+                    <attributeDefinition>Condition of a filtered nutrient sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Other (specified in remarks)</code>
+                                        <definition>other</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Backwards Filter Membrane</code>
+                                        <definition>Backwards Filter Membrane</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Cold chain broken</code>
+                                        <definition>cold chain broken</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Lost</code>
+                                        <definition>lost</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample condition ok</code>
+                                        <definition>OK</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>filtNutSampleID</attributeName>
+                    <attributeDefinition>Identifier for filtered nutrient sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for filtered nutrient sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>filtNutSampleBarcode</attributeName>
+                    <attributeDefinition>Barcode of a filtered nutrient sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of a filtered nutrient sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>rawSampleCond</attributeName>
+                    <attributeDefinition>Condition of a raw whole water sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Other (specified in remarks)</code>
+                                        <definition>other</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Backwards Filter Membrane</code>
+                                        <definition>Backwards Filter Membrane</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Cold chain broken</code>
+                                        <definition>cold chain broken</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Lost</code>
+                                        <definition>lost</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample condition ok</code>
+                                        <definition>OK</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>rawSampleID</attributeName>
+                    <attributeDefinition>Identifier for raw whole water sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for raw whole water sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>rawSampleCode</attributeName>
+                    <attributeDefinition>Barcode of a raw whole water sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of a raw whole water sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>rawNutSampleCond</attributeName>
+                    <attributeDefinition>Condition of a raw nutrient sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Other (specified in remarks)</code>
+                                        <definition>other</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Backwards Filter Membrane</code>
+                                        <definition>Backwards Filter Membrane</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Cold chain broken</code>
+                                        <definition>cold chain broken</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Lost</code>
+                                        <definition>lost</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample condition ok</code>
+                                        <definition>OK</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>rawNutSampleID</attributeName>
+                    <attributeDefinition>Identifier for raw nutrient sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for raw nutrient sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>rawNutSampleBarcode</attributeName>
+                    <attributeDefinition>Barcode of a raw nutrient sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of a raw nutrient sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>pcnSampleCond</attributeName>
+                    <attributeDefinition>Condition of a particulate carbon and nitrogen sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Other (specified in remarks)</code>
+                                        <definition>other</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Backwards Filter Membrane</code>
+                                        <definition>Backwards Filter Membrane</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Cold chain broken</code>
+                                        <definition>cold chain broken</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Lost</code>
+                                        <definition>lost</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Sample condition ok</code>
+                                        <definition>OK</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>pcnSampleID</attributeName>
+                    <attributeDefinition>Identifier for particulate carbon and nitrogen sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for particulate carbon and nitrogen sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>pcnSampleCode</attributeName>
+                    <attributeDefinition>Barcode of a particulate carbon and nitrogen sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of a particulate carbon and nitrogen sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+            </attributeList>
+            <caseSensitive>yes</caseSensitive>
+            <numberOfRecords>2</numberOfRecords>
+        </dataTable>
+        <dataTable>
+            <entityName>NEON.D01.HOPB.DP1.20093.001.swc_asiPOMFieldData.2023-07.expanded.20260106T150856Z</entityName>
+            <attributeList>
+                <attribute>
+                    <attributeName>domainID</attributeName>
+                    <attributeDefinition>Unique identifier of the NEON domain</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique identifier of the NEON domain</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>siteID</attributeName>
+                    <attributeDefinition>NEON site code</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON site code</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>namedLocation</attributeName>
+                    <attributeDefinition>Name of the measurement location in the NEON database</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the measurement location in the NEON database</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>collectDate</attributeName>
+                    <attributeDefinition>Date of the collection event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>parentSampleID</attributeName>
+                    <attributeDefinition>Parent sampleID of sample being processed</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Parent sampleID of sample being processed</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>parentSampleCode</attributeName>
+                    <attributeDefinition>Barcode of a parent sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of a parent sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>isotopePOMRep2SampleCond</attributeName>
+                    <attributeDefinition>Condition of a sample for 13C:12C and 15N:14N particulate organic matter (POM) stable isotope sample for replicate 2</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Condition of a sample for 13C:12C and 15N:14N particulate organic matter (POM) stable isotope sample for replicate 2</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>isotopePOMRep2SampleID</attributeName>
+                    <attributeDefinition>Identifier of sample for 13C:12C and 15N:14N particulate organic matter (POM) stable isotope sample for replicate 2</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier of sample for 13C:12C and 15N:14N particulate organic matter (POM) stable isotope sample for replicate 2</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>isotopePOMRep2SampleCode</attributeName>
+                    <attributeDefinition>Barcode of the particulate organic matter (POM) stable isotope sample, replicate 2</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of the particulate organic matter (POM) stable isotope sample, replicate 2</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>isotopePOMSampleCond</attributeName>
+                    <attributeDefinition>Condition of a sample for 13C:12C and 15N:14N particulate organic matter (POM) stable isotope sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Condition of a sample for 13C:12C and 15N:14N particulate organic matter (POM) stable isotope sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>isotopePOMSampleID</attributeName>
+                    <attributeDefinition>Identifier of sample for 13C:12C and 15N:14N particulate organic matter (POM) stable isotope sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier of sample for 13C:12C and 15N:14N particulate organic matter (POM) stable isotope sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>isotopePOMSampleCode</attributeName>
+                    <attributeDefinition>Barcode of the particulate organic matter (POM) stable isotope sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of the particulate organic matter (POM) stable isotope sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>processedDateFilters</attributeName>
+                    <attributeDefinition>Date or date and time of processing event of filtered samples</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleVolumeFilteredPOMRep1</attributeName>
+                    <attributeDefinition>Volume of water filtered through the filter for particulate organic matter (POM) replicate 1 for isotope external analysis</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>milliliter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleVolumeFilteredPOMRep2</attributeName>
+                    <attributeDefinition>Volume of water filtered through the filter for particulate organic matter (POM) replicate 2 for isotope external analysis</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>milliliter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>fieldDataQF</attributeName>
+                    <attributeDefinition>Data quality flag for field data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Data quality flag for field data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>uid</attributeName>
+                    <attributeDefinition>Unique ID within NEON database; an identifier for the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique ID within NEON database; an identifier for the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+            </attributeList>
+            <caseSensitive>yes</caseSensitive>
+            <numberOfRecords>2</numberOfRecords>
+        </dataTable>
+        <dataTable>
+            <entityName>NEON.D01.HOPB.DP1.20093.001.swc_externalLabBlanksByAnalyte.expanded.20260106T150856Z</entityName>
+            <attributeList>
+                <attribute>
+                    <attributeName>uid</attributeName>
+                    <attributeDefinition>Unique ID within NEON database; an identifier for the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique ID within NEON database; an identifier for the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainID</attributeName>
+                    <attributeDefinition>Unique identifier of the NEON domain</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique identifier of the NEON domain</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>siteID</attributeName>
+                    <attributeDefinition>NEON site code</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON site code</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>namedLocation</attributeName>
+                    <attributeDefinition>Name of the measurement location in the NEON database</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the measurement location in the NEON database</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleID</attributeName>
+                    <attributeDefinition>Identifier for sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>sampleCode</attributeName>
+                    <attributeDefinition>Barcode of a sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Barcode of a sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>startDate</attributeName>
+                    <attributeDefinition>The start date-time or interval during which an event occurred</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>collectDate</attributeName>
+                    <attributeDefinition>Date of the collection event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd'T'HH:mm'Z'(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>laboratoryName</attributeName>
+                    <attributeDefinition>Name of the laboratory or facility that is processing the sample</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the laboratory or facility that is processing the sample</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>analyteConcentration</attributeName>
+                    <attributeDefinition>Concentration of analyte</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>NA</customUnit>
+                            </unit>
+                            <precision>1.0E-4</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>analysisDate</attributeName>
+                    <attributeDefinition>Date that the sample was analyzed</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>coolerTemp</attributeName>
+                    <attributeDefinition>Temperature of the cooler when the sample arrived at the external lab</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>celsius</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>remarks</attributeName>
+                    <attributeDefinition>Technician notes; free text comments accompanying the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Technician notes; free text comments accompanying the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>shipmentWarmQF</attributeName>
+                    <attributeDefinition>Quality Flag for cooler arriving at external lab too warm (above 6 C)</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Quality Flag for cooler arriving at external lab too warm (above 6 C)</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>externalLabDataQF</attributeName>
+                    <attributeDefinition>Data quality flag for external lab data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Data quality flag for external lab data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+            </attributeList>
+            <caseSensitive>yes</caseSensitive>
+            <numberOfRecords>88</numberOfRecords>
+        </dataTable>
+    </dataset>
+    <additionalMetadata><metadata>
+<!--null-->
+<unitList xmlns="http://www.xml-cml.org/schema/stmml-1.2">
+    <unitType id="length" name="length">
+        <dimension name="length"/>
+    </unitType>
+    <unitType id="time" name="time">
+        <dimension name="time"/>
+    </unitType>
+    <unitType id="mass" name="mass">
+        <dimension name="mass"/>
+    </unitType>
+    <unitType id="current" name="current">
+        <dimension name="current"/>
+    </unitType>
+    <unitType id="temperature" name="temperature">
+        <dimension name="temperature"/>
+    </unitType>
+    <unitType id="amount" name="amount">
+        <dimension name="amount"/>
+    </unitType>
+    <unitType id="luminosity" name="luminosity">
+        <dimension name="luminosity"/>
+    </unitType>
+    <unitType id="dimensionless" name="dimensionless">
+        <dimension name="dimensionless"/>
+    </unitType>
+    <unitType id="angle" name="angle">
+        <dimension name="angle"/>
+    </unitType>
+    <unitType id="acceleration" name="acceleration">
+        <dimension name="length" power="1"/>
+        <dimension name="time" power="-2"/>
+    </unitType>
+    <unitType id="charge" name="charge">
+        <dimension name="current" power="1"/>
+        <dimension name="time" power="1"/>
+    </unitType>
+    <unitType id="magneticFieldStrength" name="magneticFieldStrength">
+        <dimension name="current" power="1"/>
+        <dimension name="length" power="-1"/>
+    </unitType>
+    <unitType id="currentDensity" name="currentDensity">
+        <dimension name="current" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="area" name="area">
+        <dimension name="length" power="2"/>
+    </unitType>
+    <unitType id="lengthReciprocal" name="lengthReciprocal">
+        <dimension name="length" power="-1"/>
+    </unitType>
+    <unitType id="frequency" name="frequency">
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="volume" name="volume">
+        <dimension name="length" power="3"/>
+    </unitType>
+    <unitType id="volumetricArea" name="volumetricArea">
+        <dimension name="length" power="3"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="speed" name="speed">
+        <dimension name="length" power="1"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="massDensity" name="massDensity">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="-3"/>
+    </unitType>
+    <unitType id="massPerMass" name="massPerMass">
+        <dimension name="mass" power="1"/>
+        <dimension name="mass" power="-1"/>
+    </unitType>
+    <unitType id="volumePerVolume" name="volumePerVolume">
+        <dimension name="length" power="3"/>
+        <dimension name="length" power="-3"/>
+    </unitType>
+    <unitType id="volumetricRate" name="volumetricRate">
+        <dimension name="length" power="3"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="volumetricMassDensityRate" name="volumetricMassDensityRate">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="-3"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="arealMassDensityRate" name="arealMassDensityRate">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="-2"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="specificVolume" name="specificVolume">
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="3"/>
+    </unitType>
+    <unitType id="amountOfSubstanceConcentration" name="amountOfSubstanceConcentration">
+        <dimension name="amount" power="1"/>
+        <dimension name="length" power="-3"/>
+    </unitType>
+    <unitType id="amountOfSubstanceWeight" name="amountOfSubstanceWeight">
+        <dimension name="amount" power="1"/>
+        <dimension name="mass" power="-1"/>
+    </unitType>
+    <unitType id="luminance" name="luminance">
+        <dimension name="luminosity" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="volumetricDensity" name="volumetricDensity">
+        <dimension name="dimensionless" power="1"/>
+        <dimension name="length" power="-3"/>
+    </unitType>
+    <unitType id="arealDensity" name="arealDensity">
+        <dimension name="dimensionless" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="arealMassDensity" name="arealMassDensity">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="specificArea" name="specificArea">
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="force" name="force">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="1"/>
+        <dimension name="time" power="-2"/>
+    </unitType>
+    <unitType id="energy" name="energy">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-2"/>
+    </unitType>
+    <unitType id="power" name="power">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-3"/>
+    </unitType>
+    <unitType id="potentialDifference" name="potentialDifference">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-3"/>
+        <dimension name="current" power="-1"/>
+    </unitType>
+    <unitType id="capacitance" name="capacitance">
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="-2"/>
+        <dimension name="time" power="4"/>
+        <dimension name="current" power="2"/>
+    </unitType>
+    <unitType id="resistance" name="resistance">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-3"/>
+        <dimension name="current" power="-2"/>
+    </unitType>
+    <unitType id="resistivity" name="resistivity">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="3"/>
+        <dimension name="time" power="-3"/>
+        <dimension name="current" power="-2"/>
+    </unitType>
+    <unitType id="conductance" name="conductance">
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="-2"/>
+        <dimension name="time" power="3"/>
+        <dimension name="current" power="2"/>
+    </unitType>
+    <unitType id="magneticFlux" name="magneticFlux">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-2"/>
+        <dimension name="current" power="-1"/>
+    </unitType>
+    <unitType id="magneticFluxDensity" name="magneticFluxDensity">
+        <dimension name="mass" power="1"/>
+        <dimension name="time" power="-2"/>
+        <dimension name="current" power="-1"/>
+    </unitType>
+    <unitType id="inductance" name="inductance">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-2"/>
+        <dimension name="current" power="-2"/>
+    </unitType>
+    <unitType id="illuminance" name="illuminance">
+        <dimension name="luminosity" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="radionucleotideActivity" name="radionucleotideActivity">
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="specificEnergy" name="specificEnergy">
+        <dimension name="time" power="-2"/>
+        <dimension name="length" power="2"/>
+    </unitType>
+    <unitType id="doseEquivalent" name="doseEquivalent">
+        <dimension name="time" power="-2"/>
+        <dimension name="length" power="2"/>
+    </unitType>
+    <unitType id="catalyticActivity" name="catalyticActivity">
+        <dimension name="time" power="-1"/>
+        <dimension name="amount" power="1"/>
+    </unitType>
+    <unitType id="pressure" name="pressure">
+        <dimension name="mass" power="1"/>
+        <dimension name="time" power="-2"/>
+        <dimension name="length" power="1"/>
+    </unitType>
+    <unitType id="transmissivity" name="transmissivity">
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="massSpecificLength" name="massSpecificLength">
+        <dimension name="length" power="1"/>
+        <dimension name="mass" power="-1"/>
+    </unitType>
+    <unitType id="massSpecificCount" name="massSpecificCount">
+        <dimension name="dimensionless" power="1"/>
+        <dimension name="mass" power="-1"/>
+    </unitType>
+    <unitType id="volumetricMass" name="volumetricMass">
+        <dimension name="length" power="3"/>
+        <dimension name="mass" power="1"/>
+    </unitType>
+    <unitType id="luminousFlux" name="luminousFlux">
+        <dimension name="luminosity" power="1"/>
+        <dimension name="length" power="2"/>
+    </unitType>
+    <unitType id="variance" name="variance">
+        <dimension name="amount" power="2"/>
+    </unitType>
+    <unitType id="arealAmountDensityRate" name="arealAmountDensityRate">
+        <dimension name="amount" power="1"/>
+        <dimension name="length" power="-2"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="intensity" name="intensity">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-3"/>
+    </unitType>
+    <unitType id="amountPerAmount" name="amountPerAmount">
+        <dimension name="amount" power="1"/>
+        <dimension name="amount" power="-1"/>
+    </unitType>
+    <unitType id="conductivity" name="conductivity">
+        <dimension name="current" power="2"/>
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="-3"/>
+        <dimension name="time" power="-3"/>
+    </unitType>
+    <unitType id="amountOfSubstanceChargeWeight" name="amountOfSubstanceChargeWeight">
+        <dimension name="amount" power="1"/>
+        <dimension name="current" power="1"/>
+        <dimension name="time" power="1"/>
+        <dimension name="mass" power="-1"/>
+    </unitType>
+    <unitType id="massRate" name="massRate">
+        <dimension name="mass" power="1"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="massFlux" name="massFlux">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="-2"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="amountOfSubstanceWeightRate" name="amountOfSubstanceWeightRate">
+        <dimension name="amount" power="1"/>
+        <dimension name="mass" power="-1"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unit id="milliliter" abbreviation="mL" name="milliliter" parentSI="cubicMeter" unitType="volume" multiplierToSI="0.000001"/>
+    <unit id="milligramsPerLiter" abbreviation="mg/L" name="milligramsPerLiter" parentSI="kilogramsPerCubicMeter" unitType="volumetricMass" multiplierToSI="0.001"/>
+    <unit id="NA" name="NA"/>
+    <unit id="celsius" abbreviation="°C" name="celsius" parentSI="kelvin" unitType="temperature" multiplierToSI="1" constantToSI="273.15"/>
+    <unit id="microsiemensPerCentimeter" abbreviation="μS/cm" name="microsiemensPerCentimeter"/>
+    <unit id="meter" abbreviation="m" name="meter" parentSI="meter" unitType="length" multiplierToSI="1"/>
+    <unit id="pH" abbreviation="pH" name="pH" unitType="amountOfSubstanceConcentration"/>
+    <unit id="decimalDegree" abbreviation="DD" name="decimalDegree" parentSI="radian" unitType="angle" multiplierToSI="0.0174533"/>
+    <unit id="milliequivalentsPerLiter" abbreviation="meq/L" name="milliequivalentsPerLiter" parentSI="molesPerCubicMeter" unitType="amountOfSubstanceConcentration"/>
+    <unit id="percent" abbreviation="%" name="percent" unitType="amountPerAmount"/>
+</unitList></metadata></additionalMetadata>
+</ns18:eml>

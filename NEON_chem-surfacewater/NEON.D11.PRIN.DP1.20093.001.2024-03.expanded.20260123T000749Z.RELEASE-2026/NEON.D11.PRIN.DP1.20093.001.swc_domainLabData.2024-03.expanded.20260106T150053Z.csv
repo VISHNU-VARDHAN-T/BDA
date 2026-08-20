@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"c1b37a3e-bf71-480b-80e4-78e329c6979d","D11","PRIN","PRIN.AOS.S2","2024-03-21T15:06Z","2024-03-21T21:00Z","PRIN.SS.20240321","PRIN.SS.20240321.ANC",,"support facility","ANC",8.04,21.8,"1.6",100.0,"IPT",,"Thorpea@battelleecology.org",,,5.350,268.000,
+"d158bda6-7b93-4c32-8cdd-73921a312fe8","D11","PRIN","PRIN.AOS.S2","2024-03-21T15:06Z","2024-03-21T22:00Z","PRIN.SS.20240321","PRIN.SS.20240321.ALK",,"support facility","ALK",8.04,23.5,"1.6",100.0,"IPT",,"Estradam@battelleecology.org",5.250,263.000,,,

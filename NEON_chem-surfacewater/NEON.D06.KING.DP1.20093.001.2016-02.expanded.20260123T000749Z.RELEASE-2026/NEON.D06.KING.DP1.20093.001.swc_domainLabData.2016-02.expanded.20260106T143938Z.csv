@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"4bd4cbdf-3519-428d-bde8-2d4bab87ceb3","D06","KING","KING.AOS.S2","2016-02-01T15:57Z","2016-02-01T22:45Z","KING.SS.20160201","KING.SS.20160201.ALK",,"support facility","ALK",7.86,20.0,"1.6",50.0,"IPT",,"zbuck@neoninc.org",6.160,308.000,,,
+"a3e4ff6f-63e1-452c-8867-e2be634b3259","D06","KING","KING.AOS.S2","2016-02-01T15:57Z","2016-02-01T22:20Z","KING.SS.20160201","KING.SS.20160201.ANC",,"support facility","ANC",7.84,20.3,"1.6",50.0,"IPT",,"zbuck@neoninc.org",,,5.860,293.000,

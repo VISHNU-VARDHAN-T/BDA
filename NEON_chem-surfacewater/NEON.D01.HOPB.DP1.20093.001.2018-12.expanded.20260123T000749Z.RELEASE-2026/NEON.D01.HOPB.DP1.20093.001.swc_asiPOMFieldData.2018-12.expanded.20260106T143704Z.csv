@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"86ef7f08-d5e7-4411-9189-49632ffca317","D01","HOPB","HOPB.AOS.S2","2018-12-04T14:57Z","HOPB.SS.20181204",,"Sample condition ok","HOPB.SS.20181204.POM.2","A00000033003","Sample condition ok","HOPB.SS.20181204.POM.1","A00000033004","2018-12-04T17:10Z",650,650,
+"9bccc154-46f9-4221-92b8-2274991ee049","D01","HOPB","HOPB.AOS.S2","2018-12-10T14:51Z","HOPB.SS.20181210",,"Sample condition ok","HOPB.SS.20181210.POM.2","A00000032954","Sample condition ok","HOPB.SS.20181210.POM.1","A00000032937","2018-12-10T17:30Z",750,750,
+"35a59c42-0d6b-42fd-8337-4ea5f12cdf20","D01","HOPB","HOPB.AOS.S2","2018-12-10T14:51Z","HOPB.SS.20181210",,,,,,,,,,,
+"de733a42-03cb-4f71-a444-039350f9b73c","D01","HOPB","HOPB.AOS.S2","2018-12-10T14:51Z","HOPB.SS.20181210",,,,,,,,,,,

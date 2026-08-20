@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"a4a5ad98-cac2-49b5-aca6-1dcbf548b186","D19","CARI","CARI.AOS.S2","2016-10-04T20:18Z","CARI.SS.20161004",,,"CARI.SS.20161004.POM.2",,,"CARI.SS.20161004.POM.1",,"2016-10-04T16:00Z",600,600,"legacyData"
+"15390813-28bc-43f1-a9d0-f529381222ff","D19","CARI","CARI.AOS.S2","2016-10-11T19:44Z","CARI.SS.20161011",,,"CARI.SS.20161011.POM.2",,,"CARI.SS.20161011.POM.1",,"2016-10-11T13:45Z",600,600,"legacyData"

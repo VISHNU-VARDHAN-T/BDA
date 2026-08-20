@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"b0b7fb24-167e-449d-88e9-bf109d76dd0b","D02","POSE","POSE.AOS.S2","2015-09-15T13:25Z","POSE.SS.20150915",,,"POSE.SS.20150915.POM.2",,,"POSE.SS.20150915.POM.1",,"2015-09-15T14:30Z",150,150,"legacyData"

@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"b32219af-58d4-416d-b2a0-b2d10ed1880a","D19","CARI","CARI.AOS.S2","2024-03-12T19:42Z","2024-03-13T21:00Z","CARI.SS.20240312","CARI.SS.20240312.ALK",,"support facility","ALK",7.20,24.7,"0.16",150.0,"Gran",,"jmonroe@battelleecology.org",0.970,48.400,,,
+"0a5c4896-6b7b-4ee0-a53b-093268339efe","D19","CARI","CARI.AOS.S2","2024-03-12T19:42Z","2024-03-13T21:45Z","CARI.SS.20240312","CARI.SS.20240312.ANC",,"support facility","ANC",7.38,25.6,"0.16",150.0,"Gran",,"jmonroe@battelleecology.org",,,0.940,47.100,

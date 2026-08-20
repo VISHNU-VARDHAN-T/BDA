@@ -1,0 +1,4 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"dec532a1-82fa-4bad-bd6b-0fd10c0e452b","D06","KING","KING.AOS.S2","2022-03-01T16:18Z","2022-03-01T21:20Z","KING.SS.20220301","KING.SS.20220301.ANC",,"support facility","ANC",7.42,17.2,"1.6",100.0,"IPT",,"gutierrezj",,,6.720,336.000,
+"e621bdbc-969f-40a2-ac31-a7b8f3e8d9ab","D06","KING","KING.AOS.S2","2022-03-01T16:18Z","2022-03-01T22:15Z","KING.SS.20220301","KING.SS.20220301.ALK",,"support facility","ALK",7.59,16.9,"1.6",100.0,"IPT",,"jgutierrez",6.720,336.000,,,
+"f057ab27-8c21-4e09-a0bd-3d2ed0b3f6f1","D06","KING","KING.AOS.S2","2022-03-30T15:04Z","2022-03-30T18:30Z","KING.SS.20220330","KING.SS.20220330.ALK",,"support facility","ALK",7.64,17.6,"1.6",100.0,"IPT",,"turnerh",7.120,356.000,,,

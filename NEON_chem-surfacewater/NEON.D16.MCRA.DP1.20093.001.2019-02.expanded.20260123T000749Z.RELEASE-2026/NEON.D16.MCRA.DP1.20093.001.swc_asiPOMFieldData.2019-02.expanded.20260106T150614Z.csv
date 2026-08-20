@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"50f646df-d8b8-4030-8f8a-92b567e0f99d","D16","MCRA","MCRA.AOS.S2","2019-02-06T16:18Z","MCRA.SS.20190206",,"Sample condition ok","MCRA.SS.20190206.POM.2","A00000061054","Sample condition ok","MCRA.SS.20190206.POM.1","A00000061055",,1500,1500,

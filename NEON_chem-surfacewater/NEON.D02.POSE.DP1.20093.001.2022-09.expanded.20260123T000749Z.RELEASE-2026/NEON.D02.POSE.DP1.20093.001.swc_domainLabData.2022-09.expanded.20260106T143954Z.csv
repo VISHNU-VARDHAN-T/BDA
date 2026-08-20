@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"86cb6fb9-6021-4ded-b51d-f3415c577a24","D02","POSE","POSE.AOS.S2","2022-09-27T11:44Z","2022-09-27T15:22Z","POSE.SS.20220927","POSE.SS.20220927.ALK",,"support facility","ALK",7.82,15.8,"0.16",50.0,"IPT",,"osborneb@battelleecology.org",1.330,66.400,,,
+"e700ae28-bdac-4bea-91fb-bcd2a99e7378","D02","POSE","POSE.AOS.S2","2022-09-27T11:44Z","2022-09-27T15:44Z","POSE.SS.20220927","POSE.SS.20220927.ANC",,"support facility","ANC",7.82,15.3,"0.16",50.0,"IPT",,"osborneb@battelleecology.org",,,1.340,67.200,

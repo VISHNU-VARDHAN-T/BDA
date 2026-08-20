@@ -1,0 +1,3 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"27f14c67-3c21-4a27-8909-a9a4f64203be","D11","PRIN","PRIN.AOS.S2","2017-01-10T11:45Z","2017-01-11T15:10Z","PRIN.SS.20170110","PRIN.SS.20170110.ANC",,"support facility","ANC",8.12,19.5,"1.6",100.0,"IPT",,"ghenson@neoninc.org",,,6.250,313.000,
+"5aed47c9-fc3a-43ac-a6b2-a72df2188f03","D11","PRIN","PRIN.AOS.S2","2017-01-10T11:45Z","2017-01-11T16:36Z","PRIN.SS.20170110","PRIN.SS.20170110.ALK",,"support facility","ALK",8.04,20.4,"1.6",100.0,"IPT",,"ghenson@neoninc.org",6.090,305.000,,,

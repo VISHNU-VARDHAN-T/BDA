@@ -1,0 +1,5 @@
+uid,domainID,siteID,namedLocation,collectDate,titrationDate,parentSampleID,domainSampleID,domainSampleCode,titrationLocation,sampleType,initialSamplepH,initialSampleTemp,normality,sampleVolume,methodType,remarks,measuredBy,alkMeqPerL,alkMgPerL,ancMeqPerL,ancMgPerL,dataQF
+"16a9a298-ce59-4777-9ffe-5b1e8796846f","D19","CARI","CARI.AOS.S2","2020-07-08T20:10Z","2020-07-08T23:02Z","CARI.SS.20200708","CARI.SS.20200708.ALK",,"support facility","ALK",7.91,21.5,"0.16",50.0,"Gran",,"Gillum",0.160,8.250,,,
+"10feae72-ae67-4fa5-8957-e0fd3b6d58b8","D19","CARI","CARI.AOS.S2","2020-07-08T20:10Z","2020-07-08T23:46Z","CARI.SS.20200708","CARI.SS.20200708.ANC",,"support facility","ANC",6.36,17.2,"0.16",50.0,"Gran",,"Gillum",,,0.050,2.410,
+"30fe3f65-0c49-4663-b1da-65628715c35f","D19","CARI","CARI.AOS.S2","2020-07-15T20:00Z","2020-07-15T23:11Z","CARI.SS.20200715","CARI.SS.20200715.ALK",,"support facility","ALK",7.73,20.6,"0.16",50.0,"Gran",,"Taylor Gillum",0.210,10.700,,,
+"395c8b79-d4c3-4609-975e-34f24f43d6e0","D19","CARI","CARI.AOS.S2","2020-07-28T22:42Z",,"CARI.SS.20200728","CARI.SS.20200728.ALK",,"support facility","ALK",7.39,19.2,"0.16",50.0,"Gran",,"T. Gillum",0.130,6.490,,,

@@ -1,0 +1,2 @@
+uid,domainID,siteID,namedLocation,collectDate,parentSampleID,parentSampleCode,isotopePOMRep2SampleCond,isotopePOMRep2SampleID,isotopePOMRep2SampleCode,isotopePOMSampleCond,isotopePOMSampleID,isotopePOMSampleCode,processedDateFilters,sampleVolumeFilteredPOMRep1,sampleVolumeFilteredPOMRep2,fieldDataQF
+"b0be57ac-aef0-4f23-b056-7f038931978e","D19","CARI","CARI.AOS.reach","2019-01-22T20:07Z","CARI.RE.20190122",,"Sample condition ok","CARI.RE.20190122.POM.2","A00000065337","Sample condition ok","CARI.RE.20190122.POM.1","A00000065338","2019-01-22T23:56Z",750,750,
