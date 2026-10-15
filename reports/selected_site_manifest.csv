@@ -1,0 +1,10 @@
+region,site_code,site_name,state,swc_fieldSuperParent_files,swc_fieldSuperParent_rows,swc_fieldData_files,swc_fieldData_rows,swc_domainLabData_files,swc_domainLabData_rows,swc_externalLabDataByAnalyte_files,swc_externalLabDataByAnalyte_rows,core_source_files,combined_core_rows
+Region_1_Alabama,BLWA,Black Warrior River,Alabama,94,211,90,234,90,324,90,6938,364,7707
+Region_1_Alabama,MAYF,Mayfield Creek,Alabama,120,258,99,246,117,434,99,7247,435,8185
+Region_1_Alabama,TOMB,Lower Tombigbee River,Alabama,96,214,91,230,91,318,91,6823,369,7585
+Region_2_Southeast,BARC,Barco Lake,Florida,105,166,89,162,94,278,88,4818,376,5424
+Region_2_Southeast,SUGG,Suggs Lake,Florida,100,158,86,160,90,273,85,4765,361,5356
+Region_2_Southeast,FLNT,Flint River,Georgia,90,189,79,175,78,266,79,5267,326,5897
+Region_3_Plains,KING,Kings Creek,Kansas,112,243,92,201,99,358,90,5837,393,6639
+Region_3_Plains,MCDI,McDiffett Creek,Kansas,93,205,88,196,87,297,88,5732,356,6430
+Region_3_Plains,BLUE,Blue River,Oklahoma,93,201,81,186,77,264,81,5573,332,6224

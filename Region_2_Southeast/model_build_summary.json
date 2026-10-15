@@ -1,0 +1,10 @@
+{
+  "long_rows": 14850,
+  "wide_rows": 1502,
+  "feature_count": 38,
+  "duplicate_key_rows_median_aggregated": 8,
+  "status": "wide matrix created",
+  "region": "Region_2_Southeast",
+  "sites_expected": 3,
+  "sites_with_analyte_rows": 3
+}

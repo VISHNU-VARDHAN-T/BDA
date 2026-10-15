@@ -1,0 +1,39 @@
+analyte,units,records,numeric_values,unique_sites,median_concentration,minimum_concentration,maximum_concentration
+ANC,milliequivalentsPerLiter,275,274,3,0.2,0.01,5.97
+Br,milligramsPerLiter,446,397,3,0.005,0.0005,10.5318
+Br,unit_unknown,41,29,3,0.097,0.0182,0.7626
+Ca,milligramsPerLiter,487,455,3,2.3427,0.003,67.52
+Cl,milligramsPerLiter,446,444,3,5.6814,0.005,23.082
+Cl,unit_unknown,41,41,3,5.4563,0.065,12.119
+DIC,milligramsPerLiter,487,477,3,1.102,0.1,19.86
+DOC,milligramsPerLiter,487,480,3,3.2645,0.28,75.83
+F,milligramsPerLiter,446,436,3,0.016,0.0005,6.46
+F,unit_unknown,41,40,3,0.0675,0.0217,0.1757
+Fe,milligramsPerLiter,487,379,3,0.208,0.0005,931.0
+K,milligramsPerLiter,487,485,3,1.189,0.0005,9.826
+Mg,milligramsPerLiter,487,466,3,1.23115,0.032,28.56
+Mn,milligramsPerLiter,487,354,3,0.008,0.0005,50.9
+NH4 - N,milligramsPerLiter,510,493,3,0.0343,0.0,1.7016
+NO2 - N,milligramsPerLiter,510,442,3,0.005350000000000001,0.0,0.0714
+NO3+NO2 - N,milligramsPerLiter,510,468,3,0.030100000000000002,0.0001,1.4787
+Na,milligramsPerLiter,487,462,3,3.6125,0.323,61.76
+Ortho - P,milligramsPerLiter,510,466,3,0.01795,0.0,0.481
+SO4,milligramsPerLiter,446,445,3,2.95,0.005,295.14
+SO4,unit_unknown,41,41,3,2.0909,0.6547,4.9739
+Si,milligramsPerLiter,487,458,3,1.65,0.0005,20.63
+TDN,milligramsPerLiter,487,476,3,0.8017000000000001,0.0077,4.433
+TDP,milligramsPerLiter,510,501,3,0.0166,0.0005,1.0131
+TDS,milligramsPerLiter,479,455,3,47.74,2.0,5110.0
+TDS,unit_unknown,8,8,3,21.0,4.0,67.0
+TN,milligramsPerLiter,491,480,3,0.8751,0.025,4.671
+TOC,milligramsPerLiter,491,484,3,3.5505,0.1705,76.83
+TP,milligramsPerLiter,512,511,3,0.0346,0.0005,0.6577
+TPC,microgramsPerLiter,602,601,3,650.7194,138.9537,2963.4181
+TPN,microgramsPerLiter,594,579,3,74.2691,10.2,1283.7498
+TSS,milligramsPerLiter,484,327,3,4.0,0.0,64.0
+TSS - Dry Mass,microgram,297,206,3,200.0,0.005,470000.0
+UV Absorbance (254 nm),absorbance units,55,55,3,0.1019,0.0271,1.3081
+UV Absorbance (254 nm),unit_unknown,432,415,3,0.1316,0.0009,3.5642
+UV Absorbance (280 nm),absorbance units,55,55,3,0.0767,0.0201,0.9685
+UV Absorbance (280 nm),unit_unknown,432,414,3,0.0953,0.0009,2.5502
+specificConductance,microsiemensPerCentimeter,275,274,3,63.2,13.24,701.42

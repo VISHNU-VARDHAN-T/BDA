@@ -1,0 +1,10 @@
+{
+  "long_rows": 17142,
+  "wide_rows": 2076,
+  "feature_count": 43,
+  "duplicate_key_rows_median_aggregated": 0,
+  "status": "wide matrix created",
+  "region": "Region_3_Plains",
+  "sites_expected": 3,
+  "sites_with_analyte_rows": 3
+}

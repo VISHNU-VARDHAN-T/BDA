@@ -1,0 +1,44 @@
+analyte,units,records,numeric_values,unique_sites,median_concentration,minimum_concentration,maximum_concentration
+ANC,milliequivalentsPerLiter,341,336,3,0.6995,0.008,5.647
+Br,milligramsPerLiter,633,552,3,0.005,0.0005,4.45
+Br,unit_unknown,63,59,3,0.0875,0.0064,0.881
+Ca,milligramsPerLiter,696,657,3,13.93,0.021,98.65
+Cl,milligramsPerLiter,633,627,3,4.991,0.005,48.6618
+Cl,unit_unknown,63,62,3,4.3075,0.074,15.097
+DIC,milligramsPerLiter,689,679,3,8.969,0.2046,69.31
+DIC,unit_unknown,7,7,3,8.047,1.298,8.413
+DOC,milligramsPerLiter,689,680,3,3.0415,0.4751,20.52
+DOC,unit_unknown,7,7,3,2.191,1.802,3.015
+F,milligramsPerLiter,633,596,3,0.01995,0.0005,3.1949
+F,unit_unknown,63,58,3,0.0875,0.008,7.921
+Fe,milligramsPerLiter,696,474,3,0.086,0.0001,8.558
+K,milligramsPerLiter,696,688,3,1.5803,0.0005,87.47
+Mg,milligramsPerLiter,696,632,3,4.26535,0.005,520.2
+Mn,milligramsPerLiter,696,443,3,0.001,0.0004,0.29
+NH4 - N,milligramsPerLiter,719,694,3,0.026549999999999997,0.0012,1.4825
+NO2 - N,milligramsPerLiter,719,644,3,0.0079,0.0001,0.1123
+NO3+NO2 - N,milligramsPerLiter,719,684,3,0.1583,0.0008,1.328
+Na,milligramsPerLiter,696,668,3,5.7865,0.0005,45.44
+Ortho - P,milligramsPerLiter,719,696,3,0.014,0.0,4.162
+SO4,milligramsPerLiter,633,626,3,21.375,0.005,274.87
+SO4,unit_unknown,63,63,3,19.03,0.4504,59.692
+Si,milligramsPerLiter,696,683,3,3.2919,0.005,19.2546
+TDN,milligramsPerLiter,693,670,3,0.34750000000000003,0.0025,1.647
+TDN,unit_unknown,7,7,3,0.5527,0.1474,0.6242
+TDP,milligramsPerLiter,719,709,3,0.0105,0.0,0.25
+TDS,milligramsPerLiter,690,630,3,101.0,1.0,5103.5
+TDS,unit_unknown,6,6,3,72.0,1.0,295.0
+TN,milligramsPerLiter,692,664,3,0.42305,0.0025,1.76
+TN,unit_unknown,9,9,3,0.4768,0.1046,0.6237
+TOC,milligramsPerLiter,688,673,3,3.391,0.8287,20.78
+TOC,unit_unknown,9,9,3,2.427,1.792,4.729
+TP,milligramsPerLiter,719,712,3,0.038849999999999996,0.0001,4.103
+TPC,microgramsPerLiter,874,874,3,2140.449,177.704,15920.125
+TPN,microgramsPerLiter,843,835,3,209.0895,11.0575,9535.6
+TSS,milligramsPerLiter,675,578,3,12.0,0.005,6613.0
+TSS - Dry Mass,microgram,387,315,3,600.0,0.005,1300000.0
+UV Absorbance (254 nm),absorbance units,79,79,3,0.1176,0.0279,0.5595
+UV Absorbance (254 nm),unit_unknown,617,611,3,0.1108,0.002,0.4862
+UV Absorbance (280 nm),absorbance units,79,79,3,0.0876,0.0202,0.4732
+UV Absorbance (280 nm),unit_unknown,616,609,3,0.0808,0.002,0.3784
+specificConductance,microsiemensPerCentimeter,341,339,3,145.9,0.35,433.7

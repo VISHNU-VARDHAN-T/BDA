@@ -1,0 +1,46 @@
+analyte,units,records,numeric_values,unique_sites,median_concentration,minimum_concentration,maximum_concentration
+ANC,milliequivalentsPerLiter,895,889,9,0.6995,0.008,9.61
+Br,milligramsPerLiter,1562,1367,9,0.005,0.0005,10.5318
+Br,unit_unknown,179,140,9,0.0875,0.0064,0.881
+Ca,milligramsPerLiter,1741,1644,9,13.93,0.003,140.26
+Cl,milligramsPerLiter,1562,1546,9,4.991,0.005,48.6618
+Cl,unit_unknown,179,177,9,4.3075,0.065,15.097
+DIC,milligramsPerLiter,1730,1701,9,8.969,0.1,132.6
+DIC,unit_unknown,11,11,5,39.961,1.298,79.37
+DOC,milligramsPerLiter,1730,1707,9,3.0415,0.1836,75.83
+DOC,unit_unknown,11,11,5,2.3114999999999997,1.065,3.434
+F,milligramsPerLiter,1562,1509,9,0.01995,0.0005,6.46
+F,unit_unknown,179,173,9,0.0875,0.008,7.921
+Fe,milligramsPerLiter,1741,1198,9,0.086,0.0001,931.0
+K,milligramsPerLiter,1741,1726,9,1.5176,0.0005,87.47
+Mg,milligramsPerLiter,1741,1647,9,4.26535,0.005,520.2
+Mn,milligramsPerLiter,1741,1155,9,0.001,0.0004,50.9
+NH4 - N,milligramsPerLiter,1834,1761,9,0.0265499999999999,0.0,1.7016
+NO2 - N,milligramsPerLiter,1834,1601,9,0.00535,0.0,0.4401
+NO3+NO2 - N,milligramsPerLiter,1831,1736,9,0.1583,0.0001,1.4787
+Na,milligramsPerLiter,1741,1665,9,5.295,0.0005,61.76
+Ortho - P,milligramsPerLiter,1834,1731,9,0.017,0.0,4.162
+SO4,milligramsPerLiter,1562,1549,9,20.95025,0.005,363.17
+SO4,unit_unknown,179,179,9,19.03,0.4504,59.692
+Si,milligramsPerLiter,1741,1692,9,3.2919,0.0005,21.97
+TDN,milligramsPerLiter,1740,1700,9,0.37365,0.0009,4.433
+TDN,unit_unknown,11,11,5,0.5124,0.1474,0.6242
+TDP,milligramsPerLiter,1834,1810,9,0.0166,0.0,1.0131
+TDS,milligramsPerLiter,1718,1600,9,101.0,1.0,421036.0
+TDS,unit_unknown,23,23,9,72.0,1.0,401.0
+TN,milligramsPerLiter,1750,1703,9,0.42305,0.0009,4.671
+TN,unit_unknown,13,13,5,0.491,0.1046,0.6237
+TOC,milligramsPerLiter,1740,1707,9,3.391,0.1705,76.83
+TOC,unit_unknown,13,13,5,2.629,1.136,4.729
+TP,milligramsPerLiter,1839,1827,9,0.0388499999999999,0.0001,4.103
+TPC,microgramsPerLiter,2214,2212,9,650.7194,17.6355,83172.5
+TPC,milligram,1,0,1,,,
+TPN,microgramsPerLiter,2163,2129,9,74.2691,0.2229,16110.5
+TPN,milligram,1,0,1,,,
+TSS,milligramsPerLiter,1712,1340,9,8.0,0.0,6613.0
+TSS - Dry Mass,microgram,991,765,9,400.0,0.005,1300000.0
+UV Absorbance (254 nm),absorbance units,194,194,9,0.1019,0.0106,1.3081
+UV Absorbance (254 nm),unit_unknown,1547,1519,9,0.1108,0.0005,3.5642
+UV Absorbance (280 nm),absorbance units,194,194,9,0.0767,0.008,0.9685
+UV Absorbance (280 nm),unit_unknown,1546,1514,9,0.0808,0.0003,2.5502
+specificConductance,microsiemensPerCentimeter,895,891,9,145.9,0.35,1004.15
