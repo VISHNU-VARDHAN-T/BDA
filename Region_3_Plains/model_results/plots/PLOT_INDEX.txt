@@ -1,0 +1,4 @@
+Region: Region 3 - Plains
+Samples plotted: 2076
+Feature count: 43
+Plots are PNG files in this directory.
