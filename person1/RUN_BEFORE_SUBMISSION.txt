@@ -1,0 +1,1 @@
+Run the notebook top-to-bottom and replace the local scikit-learn reference result tables in the report with the actual Spark tables from outputs/tables/model_metrics_spark.csv, site_model_metrics_spark.csv, and scalability_results_spark.csv before submitting the final LA2 report. The bundled PDF labels reference metrics honestly and does not claim they are Spark runtimes.

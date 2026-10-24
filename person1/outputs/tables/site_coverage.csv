@@ -1,0 +1,4 @@
+siteID,aggregated_30min_intervals,first_interval_end_utc,last_interval_end_utc,mean_nitrate_uM,median_nitrate_uM,min_nitrate_uM,max_nitrate_uM
+BIGC,75533,2019-01-29 19:00:00,2025-06-01,2.404572173751868,1.85,0.0,95.1
+BLDE,88043,2018-09-24 16:30:00,2025-06-01,7.071047669888562,6.8,0.0,24.9
+BLUE,68571,2018-09-26 18:00:00,2025-06-01,36.13300156042646,36.7,0.0,73.0
