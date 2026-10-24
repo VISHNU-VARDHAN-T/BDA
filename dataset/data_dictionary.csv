@@ -1,0 +1,18 @@
+field,definition,role
+siteID,NEON four-letter site code,Categorical feature and group key
+time,End timestamp (UTC) of the completed 30-minute aggregate,Time index / forecast origin
+nitrate_mean,"Mean of accepted source surfWaterNitrateMean values in the 30-minute bin, µmol/L",Current-value predictor; basis of target
+nitrate_min,"Minimum available source surfWaterNitrateMinimum in the 30-minute bin, µmol/L",Predictor
+nitrate_max,"Maximum available source surfWaterNitrateMaximum in the 30-minute bin, µmol/L",Predictor
+uncertainty_mean,Mean of source expanded uncertainty values in the 30-minute bin,Predictor
+std_error_mean,Mean of source standard-error values in the 30-minute bin,Predictor
+valid_15min_count,Count of accepted 15-minute input rows in the 30-minute bin (usually 1 or 2),Predictor / completeness signal
+lag_30m,Accepted nitrate mean exactly 30 minutes before time,Predictor
+lag_1h,Accepted nitrate mean exactly 1 hour before time,Predictor
+lag_24h,Accepted nitrate mean exactly 24 hours before time,Predictor and 24-hour seasonal-naive baseline
+lag_7d,Accepted nitrate mean exactly 7 days before time,Predictor and 7-day seasonal-naive baseline
+hour_sin / hour_cos,Sine/cosine of interval-end time of day,Cyclic calendar predictors
+doy_sin / doy_cos,Sine/cosine of day of year,Cyclic calendar predictors
+month,Month number at interval end,Calendar predictor
+target_24h,"Nitrate mean at time + 24 hours, if a valid aggregated observation exists",24-hour-ahead regression target
+target_7d,"Nitrate mean at time + 7 days, if a valid aggregated observation exists",7-day-ahead regression target
