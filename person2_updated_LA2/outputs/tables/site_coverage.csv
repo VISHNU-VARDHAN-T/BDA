@@ -1,0 +1,4 @@
+siteID,aggregated_30min_intervals,first_interval_end_utc,last_interval_end_utc,mean_nitrate_uM,median_nitrate_uM,min_nitrate_uM,max_nitrate_uM
+COMO,96977,2018-02-08 00:30:00,2025-06-01,5.665812512245169,5.15,0.0,29.35
+CUPE,97431,2018-05-18 00:30:00,2025-06-01,25.830406133571497,25.1,0.1,79.4
+HOPB,97309,2018-12-01 00:30:00,2025-06-01,5.576813552703244,5.3,0.8,20.05

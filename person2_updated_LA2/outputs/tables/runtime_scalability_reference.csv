@@ -1,0 +1,4 @@
+person,training_fraction_of_sample,n_train_used,n_scoring_rows,fit_seconds_local_reference,predict_seconds_local_reference
+Person2,0.25,1125,3000,0.0275565359997926,0.0087210149995371
+Person2,0.5,2250,3000,0.0356142650007313,0.0082082620001529
+Person2,1.0,4500,3000,0.0660608849993877,0.0096068709999599
